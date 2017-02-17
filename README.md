@@ -29,8 +29,10 @@ A curated list of object proposals resources for object detection and deep learn
 #### Re-ranking & Post-processing
 
 #### Evaluation
-* Jordi Pont-Tuset and Luc Van Gool, Boosting Object Proposals: From Pascal to COCO, ICCV, 2015 [[pdf]](http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/data/PontTusetVanGool-Boosting-ICCV2015.pdf)[[Project]](http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/index.html)
-* Neelima Chavali, Harsh Agrawal, Aroma Mahendru, and Dhruv Batra, Object-Proposal Evaluation Protocol is 'Gameable', [[pdf]](https://arxiv.org/pdf/1505.05836.pdf)[[Project]](https://filebox.ece.vt.edu/~aroma/web/object-proposals.html)
+* Boosting Object Proposals: From Pascal to COCO, ICCV, 2015 [[pdf]](http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/data/PontTusetVanGool-Boosting-ICCV2015.pdf)[[Project]](http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/index.html)
+  * Jordi Pont-Tuset and Luc Van Gool. ETH Zürich.
+* Object-Proposal Evaluation Protocol is 'Gameable', [[pdf]](https://arxiv.org/pdf/1505.05836.pdf)[[Project]](https://filebox.ece.vt.edu/~aroma/web/object-proposals.html)
+  * Neelima Chavali, Harsh Agrawal, Aroma Mahendru, and Dhruv Batra. Virginia Tech.
 
 ### Datasets
 * MS COCO [[Paper]](https://arxiv.org/pdf/1405.0312.pdf)[[Project]](http://mscoco.org/)
