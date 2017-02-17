@@ -9,7 +9,7 @@ A curated list of object proposals resources for object detection and deep learn
   - [Objectness Scoring](#objectness-scoring)
   - [Similarity Grouping](#similarity-grouping)
   - [Supervised](#supervised)
-  - [Re-ranking & Post-processing](#re-ranking-post-processing)
+  - [Re-ranking & Post-processing](#re-ranking--post-processing)
   - [Evaluation](#evaluation)
 - [Datasets](#datasets)
   
@@ -30,6 +30,7 @@ A curated list of object proposals resources for object detection and deep learn
 
 #### Evaluation
 * Jordi Pont-Tuset and Luc Van Gool, Boosting Object Proposals: From Pascal to COCO, ICCV, 2015 [[pdf]](http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/data/PontTusetVanGool-Boosting-ICCV2015.pdf)[[Project]](http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/index.html)
+* Neelima Chavali, Harsh Agrawal, Aroma Mahendru, and Dhruv Batra, Object-Proposal Evaluation Protocol is 'Gameable', [[pdf]](https://arxiv.org/pdf/1505.05836.pdf)[[Project]](https://filebox.ece.vt.edu/~aroma/web/object-proposals.html)
 
 ### Datasets
 * MS COCO [[Paper]](https://arxiv.org/pdf/1405.0312.pdf)[[Project]](http://mscoco.org/)
