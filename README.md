@@ -27,6 +27,9 @@ A curated list of object proposals resources for object detection and deep learn
 * CPMC [[Project]](http://home.isr.uc.pt/~joaoluis/cpmc/)
   * Joao Carreira and Cristian Sminchisescu, [Constrained Parametric Min-Cuts for Automatic Object Segmentation](http://home.isr.uc.pt/~joaoluis/papers/cvpr2010_2.pdf), CVPR, 2010.
   * Joao Carreira and Cristian Sminchisescu, [CPMC: Automatic Object Segmentation Using Constrained Parametric Min-Cuts](http://home.isr.uc.pt/~joaoluis/papers/PAMI2012.pdf), TPAMI, 2012.
+* Endres [[Project]](http://vision.cs.illinois.edu/proposals/)
+  * Ian Endres and Derek Hoiem, [Category Independent Object Proposals](http://link.springer.com/chapter/10.1007/978-3-642-15555-0_42), ECCV, 2010.
+  * Ian Endres and Derek Hoiem, [Category-Independent Object Proposals With Diverse Ranking](http://dhoiem.cs.illinois.edu/publications/pami2013_proposals_endres.pdf), TPAMI, 2014.
 
 #### Similarity Grouping
 
