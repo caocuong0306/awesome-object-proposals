@@ -25,7 +25,7 @@ A curated list of object proposals resources for object detection and deep learn
   * Bogdan Alexe, Thomas Deselaers, and Vittorio Ferrari, [What is an object?](http://groups.inf.ed.ac.uk/calvin/Publications/alexe-cvpr10.pdf), CVPR, 2010.
   * Bogdan Alexe, Thomas Deselaers, and Vittorio Ferrari, [Measuring the Objectness of Image Windows](https://www.vision.ee.ethz.ch/publications/papers/techreports/eth_biwi_00882.pdf), TPAMI, 2012.
 * Rahtu [[Project]](http://www.cse.oulu.fi/CMV/Downloads/ObjectDetection/)
-  * Esa Rahtu, Juho Kannala, and Matthew Blaschko, [Learning a Category Independent Object Detection Cascade](https://www.robots.ox.ac.uk/~tvg/publications/2011/ziming_cvpr11.pdf), ICCV, 2011.
+  * Esa Rahtu, Juho Kannala, and Matthew Blaschko, [Learning a Category Independent Object Detection Cascade](http://www.ee.oulu.fi/~jkannala/publications/iccv2011.pdf), ICCV, 2011.
 * Cascaded Ranking SVMs [[Code]](https://sites.google.com/a/brookes.ac.uk/zimingzhang/code)
   * Ziming Zhang, Jonathan Warrell, and Philip H. S. Torr, [Proposal generation for object detection using cascaded ranking SVMs](https://www.robots.ox.ac.uk/~tvg/publications/2011/ziming_cvpr11.pdf), CVPR, 2011.
 
@@ -39,6 +39,9 @@ A curated list of object proposals resources for object detection and deep learn
 * Selective Search [[Project]](http://koen.me/research/selectivesearch/)
   * Koen E. A. van de Sande, Jasper R. R. Uijlings, Theo Gevers, and Arnold W. M. Smeulders, [Segmentation As Selective Search for Object Recognition](http://koen.me/research/pub/vandesande-iccv2011.pdf), ICCV, 2011.
   * Jasper R. R. Uijlings, Koen E. A. van de Sande, Theo Gevers, and Arnold W. M. Smeulders, [Selective Search for Object Recognition](http://koen.me/research/pub/uijlings-ijcv2013-draft.pdf), IJCV, 2013.
+* Randomized Prim [[Project]](http://www.vision.ee.ethz.ch/~smanenfr/rp/index.html)
+  * Santiago Manen, Matthieu Guillaumin, and Luc Van Gool, [Prime Object Proposals with Randomized Prim's Algorithm
+](http://www.vision.ee.ethz.ch/~smanenfr/rp/ManenICCV2013.pdf), ICCV, 2013.
 
 #### Supervised
 
