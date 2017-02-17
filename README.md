@@ -22,8 +22,8 @@ A curated list of object proposals resources for object detection and deep learn
 
 #### Objectness Scoring
 * Objectness [[Project]](http://groups.inf.ed.ac.uk/calvin/objectness/)
-  * Bogdan Alexe, Thomas Deselaers, and Vittorio Ferrari, What is an object?, CVPR, 2010. [[Paper]](http://groups.inf.ed.ac.uk/calvin/Publications/alexe-cvpr10.pdf)
-  * Bogdan Alexe, Thomas Deselaers, and Vittorio Ferrari, Measuring the Objectness of Image Windows, TPAMI, 2012. [[Paper]](https://www.vision.ee.ethz.ch/publications/papers/techreports/eth_biwi_00882.pdf)
+  * Bogdan Alexe, Thomas Deselaers, and Vittorio Ferrari, [What is an object?](http://groups.inf.ed.ac.uk/calvin/Publications/alexe-cvpr10.pdf), CVPR, 2010.
+  * Bogdan Alexe, Thomas Deselaers, and Vittorio Ferrari, [Measuring the Objectness of Image Windows](https://www.vision.ee.ethz.ch/publications/papers/techreports/eth_biwi_00882.pdf), TPAMI, 2012.
   
 
 #### Similarity Grouping
