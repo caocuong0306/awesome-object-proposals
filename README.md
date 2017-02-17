@@ -10,8 +10,10 @@ A curated list of object proposals resources for object detection and deep learn
   - [Similarity Grouping](#similarity-grouping)
   - [Supervised](#supervised)
   - [Re-ranking & Post-processing](#re-ranking-post-processing)
+- [Datasets](#datasets)
   
 ### Introduction
+* [Generating Object Proposals] (https://pdollar.wordpress.com/2013/12/22/generating-object-proposals/) by Piotr Dollar.
 
 ### Tutorials
 
@@ -24,3 +26,5 @@ A curated list of object proposals resources for object detection and deep learn
 #### Supervised
 
 #### Re-ranking & Post-processing
+
+### Datasets
