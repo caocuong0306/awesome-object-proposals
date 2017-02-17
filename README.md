@@ -17,6 +17,7 @@ A curated list of object proposals resources for object detection and deep learn
 * [Generating Object Proposals] (https://pdollar.wordpress.com/2013/12/22/generating-object-proposals/) by Piotr Dollár.
 
 ### Tutorials
+* [ICCV 2015 Tutorial on Tools for Efficient Object Detection] (http://mp7.watson.ibm.com/ICCV2015/ObjectDetectionICCV2015.html)
 
 ### Papers
 
