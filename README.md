@@ -41,6 +41,9 @@ A curated list of object proposals resources for object detection and deep learn
 #### Re-ranking & Post-processing
 
 #### Evaluation
+* Hosang benchmark [[Project]](http://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/object-recognition-and-scene-understanding/how-good-are-detection-proposals-really/) [[Code]](https://github.com/hosang/detection-proposals)
+  * Jan Hosang, Rodrigo Benenson, and Bernt Schiele, [How good are detection proposals, really?](https://arxiv.org/pdf/1406.6962.pdf), BMVC, 2014.
+  * Jan Hosang, Rodrigo Benenson, Piotr Dollár, and Bernt Schiele, [What makes for effective detection proposals?](https://arxiv.org/pdf/1502.05082.pdf), TPAMI, 2015.
 * Boosting Object Proposals: From Pascal to COCO, ICCV, 2015 [[Paper]](http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/data/PontTusetVanGool-Boosting-ICCV2015.pdf)[[Project]](http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/index.html)
   * Jordi Pont-Tuset and Luc Van Gool. ETH Zürich.
 * Object-Proposal Evaluation Protocol is 'Gameable', [[Paper]](https://arxiv.org/pdf/1505.05836.pdf)[[Project]](https://filebox.ece.vt.edu/~aroma/web/object-proposals.html)
