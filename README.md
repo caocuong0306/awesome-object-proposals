@@ -24,14 +24,17 @@ A curated list of object proposals resources for object detection and deep learn
 * Objectness [[Project]](http://groups.inf.ed.ac.uk/calvin/objectness/)
   * Bogdan Alexe, Thomas Deselaers, and Vittorio Ferrari, [What is an object?](http://groups.inf.ed.ac.uk/calvin/Publications/alexe-cvpr10.pdf), CVPR, 2010.
   * Bogdan Alexe, Thomas Deselaers, and Vittorio Ferrari, [Measuring the Objectness of Image Windows](https://www.vision.ee.ethz.ch/publications/papers/techreports/eth_biwi_00882.pdf), TPAMI, 2012.
+
+#### Similarity Grouping
 * CPMC [[Project]](http://home.isr.uc.pt/~joaoluis/cpmc/)
   * Joao Carreira and Cristian Sminchisescu, [Constrained Parametric Min-Cuts for Automatic Object Segmentation](http://home.isr.uc.pt/~joaoluis/papers/cvpr2010_2.pdf), CVPR, 2010.
   * Joao Carreira and Cristian Sminchisescu, [CPMC: Automatic Object Segmentation Using Constrained Parametric Min-Cuts](http://home.isr.uc.pt/~joaoluis/papers/PAMI2012.pdf), TPAMI, 2012.
-* Endres [[Project]](http://vision.cs.illinois.edu/proposals/)
   * Ian Endres and Derek Hoiem, [Category Independent Object Proposals](http://link.springer.com/chapter/10.1007/978-3-642-15555-0_42), ECCV, 2010.
   * Ian Endres and Derek Hoiem, [Category-Independent Object Proposals With Diverse Ranking](http://dhoiem.cs.illinois.edu/publications/pami2013_proposals_endres.pdf), TPAMI, 2014.
-
-#### Similarity Grouping
+* Selective Search [[Project]](http://koen.me/research/selectivesearch/)
+  * Koen E. A. van de Sande, Jasper R. R. Uijlings, Theo Gevers, and Arnold W. M. Smeulders, [Segmentation As Selective Search for Object Recognition](http://koen.me/research/pub/vandesande-iccv2011.pdf), ICCV, 2011.
+  * Jasper R. R. Uijlings, Koen E. A. van de Sande, Theo Gevers, and Arnold W. M. Smeulders, [Selective Search for Object Recognition](http://koen.me/research/pub/uijlings-ijcv2013-draft.pdf), IJCV, 2013.
+* Endres [[Project]](http://vision.cs.illinois.edu/proposals/)
 
 #### Supervised
 
