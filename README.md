@@ -8,7 +8,7 @@ A curated list of object proposals resources for object detection and deep learn
 - [Papers](#papers)
   - [Objectness Scoring](#objectness-scoring)
   - [Similarity Grouping](#similarity-grouping)
-  - [Supervised](#supervised)
+  - [Supervised Learning](#supervised-learning)
   - [Re-ranking & Post-processing](#re-ranking--post-processing)
   - [Evaluation](#evaluation)
 - [Datasets](#datasets)
@@ -28,6 +28,10 @@ A curated list of object proposals resources for object detection and deep learn
   * Esa Rahtu, Juho Kannala, and Matthew Blaschko, [Learning a Category Independent Object Detection Cascade](http://www.ee.oulu.fi/~jkannala/publications/iccv2011.pdf), ICCV, 2011.
 * Cascaded Ranking SVMs [[Code]](https://sites.google.com/a/brookes.ac.uk/zimingzhang/code)
   * Ziming Zhang, Jonathan Warrell, and Philip H. S. Torr, [Proposal generation for object detection using cascaded ranking SVMs](https://www.robots.ox.ac.uk/~tvg/publications/2011/ziming_cvpr11.pdf), CVPR, 2011.
+* BING [[Project]](http://mmcheng.net/bing/)
+   * Ming-Ming Cheng, Ziming Zhang, Wen-Yan Lin, and Philip Torr, [BING: Binarized Normed Gradients for Objectness Estimation at 300fps](http://mmcheng.net/mftp/Papers/ObjectnessBING.pdf), CVPR, 2014.
+* BING++ 
+   * Ziming Zhang, Yun Liu, Tolga Bolukbasi, Ming-Ming Cheng, and Venkatesh Saligrama, [BING++: A Fast High Quality Object Proposal Generator at 100fps](https://arxiv.org/pdf/1511.04511.pdf), arXiv:1511.04511.
 
 #### Similarity Grouping
 * CPMC [[Project]](http://home.isr.uc.pt/~joaoluis/cpmc/)
@@ -46,7 +50,7 @@ A curated list of object proposals resources for object detection and deep learn
   * Pekka Rantalankila, Juho Kannala, and Esa Rahtu, [Generating Object Segmentation Proposals Using Global and Local Search
 ](https://users.aalto.fi/~kannalj1/publications/cvpr2014a.pdf), CVPR, 2014.
 
-#### Supervised
+#### Supervised Learning
 
 #### Re-ranking & Post-processing
 
