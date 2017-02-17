@@ -24,6 +24,10 @@ A curated list of object proposals resources for object detection and deep learn
 * Objectness [[Project]](http://groups.inf.ed.ac.uk/calvin/objectness/)
   * Bogdan Alexe, Thomas Deselaers, and Vittorio Ferrari, [What is an object?](http://groups.inf.ed.ac.uk/calvin/Publications/alexe-cvpr10.pdf), CVPR, 2010.
   * Bogdan Alexe, Thomas Deselaers, and Vittorio Ferrari, [Measuring the Objectness of Image Windows](https://www.vision.ee.ethz.ch/publications/papers/techreports/eth_biwi_00882.pdf), TPAMI, 2012.
+* Rahtu [[Project]](http://www.cse.oulu.fi/CMV/Downloads/ObjectDetection/)
+  * Esa Rahtu, Juho Kannala, and Matthew Blaschko, [Learning a Category Independent Object Detection Cascade](https://www.robots.ox.ac.uk/~tvg/publications/2011/ziming_cvpr11.pdf), ICCV, 2011.
+* Cascaded Ranking SVMs [[Code]](https://sites.google.com/a/brookes.ac.uk/zimingzhang/code)
+  * Ziming Zhang, Jonathan Warrell, and Philip H. S. Torr, [Proposal generation for object detection using cascaded ranking SVMs](https://www.robots.ox.ac.uk/~tvg/publications/2011/ziming_cvpr11.pdf), CVPR, 2011.
 
 #### Similarity Grouping
 * CPMC [[Project]](http://home.isr.uc.pt/~joaoluis/cpmc/)
@@ -43,7 +47,7 @@ A curated list of object proposals resources for object detection and deep learn
 #### Evaluation
 * Hosang benchmark [[Project]](http://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/object-recognition-and-scene-understanding/how-good-are-detection-proposals-really/) [[Code]](https://github.com/hosang/detection-proposals)
   * Jan Hosang, Rodrigo Benenson, and Bernt Schiele, [How good are detection proposals, really?](https://arxiv.org/pdf/1406.6962.pdf), BMVC, 2014.
-  * Jan Hosang, Rodrigo Benenson, Piotr Dollár, and Bernt Schiele, [What makes for effective detection proposals?](https://arxiv.org/pdf/1502.05082.pdf), TPAMI, 2015.
+  * Jan Hosang, Rodrigo Benenson, Piotr Dollár, and Bernt Schiele, [What makes for effective detection proposals?](https://arxiv.org/pdf/1502.05082.pdf), TPAMI, 2016.
 * Jordi Pont-Tuset and Luc Van Gool, [Boosting Object Proposals: From Pascal to COCO] (http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/data/PontTusetVanGool-Boosting-ICCV2015.pdf), ICCV, 2015. [[Project]](http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/index.html)
 * Neelima Chavali, Harsh Agrawal, Aroma Mahendru, and Dhruv Batra, [Object-Proposal Evaluation Protocol is 'Gameable'] (https://arxiv.org/pdf/1505.05836.pdf), CVPR, 2016. [[Project]](https://filebox.ece.vt.edu/~aroma/web/object-proposals.html)
 
