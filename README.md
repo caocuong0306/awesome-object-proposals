@@ -21,6 +21,10 @@ A curated list of object proposals resources for object detection and deep learn
 ### Papers
 
 #### Objectness Scoring
+* Objectness [[Project]](http://groups.inf.ed.ac.uk/calvin/objectness/)
+  * Bogdan Alexe, Thomas Deselaers, and Vittorio Ferrari, What is an object?, CVPR, 2010. [[Paper]](http://groups.inf.ed.ac.uk/calvin/Publications/alexe-cvpr10.pdf)
+  * Bogdan Alexe, Thomas Deselaers, and Vittorio Ferrari, Measuring the Objectness of Image Windows, TPAMI, 2012. [[Paper]](https://www.vision.ee.ethz.ch/publications/papers/techreports/eth_biwi_00882.pdf)
+  
 
 #### Similarity Grouping
 
@@ -29,9 +33,9 @@ A curated list of object proposals resources for object detection and deep learn
 #### Re-ranking & Post-processing
 
 #### Evaluation
-* Boosting Object Proposals: From Pascal to COCO, ICCV, 2015 [[pdf]](http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/data/PontTusetVanGool-Boosting-ICCV2015.pdf)[[Project]](http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/index.html)
+* Boosting Object Proposals: From Pascal to COCO, ICCV, 2015 [[Paper]](http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/data/PontTusetVanGool-Boosting-ICCV2015.pdf)[[Project]](http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/index.html)
   * Jordi Pont-Tuset and Luc Van Gool. ETH Zürich.
-* Object-Proposal Evaluation Protocol is 'Gameable', [[pdf]](https://arxiv.org/pdf/1505.05836.pdf)[[Project]](https://filebox.ece.vt.edu/~aroma/web/object-proposals.html)
+* Object-Proposal Evaluation Protocol is 'Gameable', [[Paper]](https://arxiv.org/pdf/1505.05836.pdf)[[Project]](https://filebox.ece.vt.edu/~aroma/web/object-proposals.html)
   * Neelima Chavali, Harsh Agrawal, Aroma Mahendru, and Dhruv Batra. Virginia Tech.
 
 ### Datasets
