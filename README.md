@@ -29,6 +29,7 @@ A curated list of object proposals resources for object detection and deep learn
 #### Re-ranking & Post-processing
 
 #### Evaluation
+* Jordi Pont-Tuset and Luc Van Gool, Boosting Object Proposals: From Pascal to COCO, ICCV, 2015 [[Project]](http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/index.html)
 
 ### Datasets
 * MS COCO [[Paper]](https://arxiv.org/pdf/1405.0312.pdf)[[Project]](http://mscoco.org/)
