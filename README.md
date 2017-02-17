@@ -48,11 +48,11 @@ A curated list of object proposals resources for object detection and deep learn
 * Neelima Chavali, Harsh Agrawal, Aroma Mahendru, and Dhruv Batra, [Object-Proposal Evaluation Protocol is 'Gameable'] (https://arxiv.org/pdf/1505.05836.pdf), CVPR, 2016. [[Project]](https://filebox.ece.vt.edu/~aroma/web/object-proposals.html)
 
 ### Datasets
-* PASCAL [[Paper]](http://host.robots.ox.ac.uk/pascal/VOC/pubs/everingham10.pdf)[[Project]](http://host.robots.ox.ac.uk/pascal/VOC/)
-  * Mark Everingham, Luc Van Gool, Christopher K. I. Williams, John Winn, and Andrew Zisserman, The PASCAL Visual Object Classes (VOC) Challenge, IJCV, 2010.
-* MS COCO [[Paper]](https://arxiv.org/pdf/1405.0312.pdf)[[Project]](http://mscoco.org/)
-  * Tsung-Yi Lin, Michael Maire, Serge Belongie, Lubomir Bourdev, Ross Girshick, James Hays, Pietro Perona, Deva Ramanan, C. Lawrence Zitnick, and Piotr Dollár, Microsoft COCO: Common Objects in Context, ECCV, 2014.
-* ImageNet [[Paper]](http://www.image-net.org/papers/imagenet_cvpr09.pdf)[[Project]](http://www.image-net.org/)
-  * Jia Deng, Wei Dong, Richard Socher, Li-Jia Li, Kai Li and Li Fei-Fei, ImageNet: A Large-Scale Hierarchical Image Database, CVPR, 2009.
-* KITTI [[Paper]](http://www.cvlibs.net/publications/Geiger2012CVPR.pdf) [[Project]](http://www.cvlibs.net/datasets/kitti/index.php)
-  * Andreas Geiger and Philip Lenz and Raquel Urtasun, Are we ready for Autonomous Driving? The KITTI Vision Benchmark Suite, CVPR, 2012.
+* PASCAL [[Project]](http://host.robots.ox.ac.uk/pascal/VOC/)
+  * Mark Everingham, Luc Van Gool, Christopher K. I. Williams, John Winn, and Andrew Zisserman, [The PASCAL Visual Object Classes (VOC) Challenge](http://host.robots.ox.ac.uk/pascal/VOC/pubs/everingham10.pdf), IJCV, 2010.
+* MS COCO [[Project]](http://mscoco.org/)
+  * Tsung-Yi Lin, Michael Maire, Serge Belongie, Lubomir Bourdev, Ross Girshick, James Hays, Pietro Perona, Deva Ramanan, C. Lawrence Zitnick, and Piotr Dollár, [Microsoft COCO: Common Objects in Context](https://arxiv.org/pdf/1405.0312.pdf), ECCV, 2014.
+* ImageNet [[Project]](http://www.image-net.org/)
+  * Jia Deng, Wei Dong, Richard Socher, Li-Jia Li, Kai Li and Li Fei-Fei, [ImageNet: A Large-Scale Hierarchical Image Database](http://www.image-net.org/papers/imagenet_cvpr09.pdf), CVPR, 2009.
+* KITTI [[Project]](http://www.cvlibs.net/datasets/kitti/index.php)
+  * Andreas Geiger and Philip Lenz and Raquel Urtasun, [Are we ready for Autonomous Driving? The KITTI Vision Benchmark Suite](http://www.cvlibs.net/publications/Geiger2012CVPR.pdf), CVPR, 2012.
