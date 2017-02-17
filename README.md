@@ -39,9 +39,12 @@ A curated list of object proposals resources for object detection and deep learn
 * Selective Search [[Project]](http://koen.me/research/selectivesearch/)
   * Koen E. A. van de Sande, Jasper R. R. Uijlings, Theo Gevers, and Arnold W. M. Smeulders, [Segmentation As Selective Search for Object Recognition](http://koen.me/research/pub/vandesande-iccv2011.pdf), ICCV, 2011.
   * Jasper R. R. Uijlings, Koen E. A. van de Sande, Theo Gevers, and Arnold W. M. Smeulders, [Selective Search for Object Recognition](http://koen.me/research/pub/uijlings-ijcv2013-draft.pdf), IJCV, 2013.
-* Randomized Prim [[Project]](http://www.vision.ee.ethz.ch/~smanenfr/rp/index.html)
+* RandomizedPrim [[Project]](http://www.vision.ee.ethz.ch/~smanenfr/rp/index.html)
   * Santiago Manen, Matthieu Guillaumin, and Luc Van Gool, [Prime Object Proposals with Randomized Prim's Algorithm
 ](http://www.vision.ee.ethz.ch/~smanenfr/rp/ManenICCV2013.pdf), ICCV, 2013.
+* Rantalankila
+  * Pekka Rantalankila, Juho Kannala, and Esa Rahtu, [Generating Object Segmentation Proposals Using Global and Local Search
+](https://users.aalto.fi/~kannalj1/publications/cvpr2014a.pdf), CVPR, 2014.
 
 #### Supervised
 
