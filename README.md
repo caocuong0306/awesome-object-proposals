@@ -81,6 +81,9 @@ A curated list of object proposals resources for object detection and deep learn
   * Authors, [Title](link), Conf, Year.
 
 #### Re-ranking & Post-processing
+* MTSE [[Project]](http://3dimage.ee.tsinghua.edu.cn/cxz/mtse)
+  * Xiaozhi Chen, Huimin Ma, Xiang Wang, Zhichen Zhao, [Improving Object Proposals with Multi-Thresholding Straddling Expansion](http://3dimage.ee.tsinghua.edu.cn/files/publications/CVPR15_XiaozhiChen.pdf), CVPR, 2015.
+  * Xiaozhi Chen, Huimin Ma, Chenzhuo Zhu, Xiang Wang, Zhichen Zhao, [Boundary-aware box refinement for object proposal generation](http://3dimage.ee.tsinghua.edu.cn/download?filename=files/publications/NC17_XiaozhiChen.pdf), Neurocomputing, 2017.
 * DeepBox [[Project]](https://github.com/weichengkuo/DeepBox)
   * Weicheng Kuo, Bharath Hariharan, and Jitendra Malik, [DeepBox: Learning Objectness with Convolutional Networks](https://arxiv.org/pdf/1505.02146.pdf), ICCV, 2015.
 * SharpMask [[Code]](https://github.com/facebookresearch/deepmask)
