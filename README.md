@@ -16,6 +16,7 @@ A curated list of object proposals resources for object detection and deep learn
 - [Datasets](#datasets)
   
 ### Introduction
+* [A Seismic Shift in Object Detection] (https://pdollar.wordpress.com/2013/12/10/a-seismic-shift-in-object-detection/) by Piotr Dollár.
 * [Generating Object Proposals] (https://pdollar.wordpress.com/2013/12/22/generating-object-proposals/) by Piotr Dollár.
 
 ### Tutorials
