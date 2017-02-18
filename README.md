@@ -9,7 +9,7 @@ A curated list of object proposals resources for object detection and deep learn
   - [Low-Level Processing](#low-level-processing)
   - [Objectness Scoring](#objectness-scoring)
   - [Similarity Grouping](#similarity-grouping)
-  - [Supervised Learning](#hybrid-supervised-learning)
+  - [Hybrid - Supervised Learning](#hybrid--supervised-learning)
   - [Re-ranking & Post-processing](#re-ranking--post-processing)
   - [Evaluation](#evaluation)
 - [Datasets](#datasets)
