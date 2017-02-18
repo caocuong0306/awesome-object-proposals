@@ -72,11 +72,19 @@ A curated list of object proposals resources for object detection and deep learn
 #### Hybrid / Supervised Learning
 * DeepMask [[Code]](https://github.com/facebookresearch/deepmask)
   * Pedro O. Pinheiro, Ronan Collobert and Piotr Dollár, [Learning to Segment Object Candidates](https://arxiv.org/pdf/1506.06204.pdf), NIPS, 2015.
+* Mid-level Cues
+  * Tom Lee, Sanja Fidler, and Sven Dickinson, [Learning to Combine Mid-level Cues for Object Proposal Generation](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Lee_Learning_to_Combine_ICCV_2015_paper.pdf), ICCV, 2015.
+* LPO [[Project]](http://vladlen.info/publications/learning-to-propose-objects/)
+  * Philipp Krähenbühl and Vladlen Koltun, [Learning to Propose Objects](http://vladlen.info/papers/lpo.pdf), CVPR, 2015.
+* RPN [[Project]](https://github.com/ShaoqingRen/faster_rcnn)
+  * Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun, [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf), NIPS, 2015.
 * 3DOP [[Project]](http://www.cs.toronto.edu/objprop3d/)
   * Xiaozhi Chen, Kaustav Kundu, Yukun Zhu, Andrew Berneshawi, Huimin Ma, Sanja Fidler, and Raquel Urtasun, [3D Object Proposals for Accurate Object Class Detection](http://www.cs.toronto.edu/objprop3d/3dopNIPS15.pdf), NIPS, 2015.
 * Mono3D [[Project]](http://3dimage.ee.tsinghua.edu.cn/cxz/mono3d)
   * Xiaozhi Chen, Kaustav Kundu, Ziyu Zhang, Huimin Ma, Sanja Fidler, and Raquel Urtasun, [Monocular 3D Object Detection for Autonomous Driving](http://3dimage.ee.tsinghua.edu.cn/files/publications/CVPR16_XiaozhiChen.pdf), CVPR, 2016.
-
+* MV3D [[Project]](http://3dimage.ee.tsinghua.edu.cn/cxz)
+  * Xiaozhi Chen, Huimin Ma, Ji Wan, Bo Li, and Tian Xia, [Multi-View 3D Object Detection Network for Autonomous Driving](https://arxiv.org/pdf/1611.07759.pdf), arxiv.1611.07759. 2016.
+  
 * Name [[Project]](link)
   * Authors, [Title](link), Conf, Year.
 
