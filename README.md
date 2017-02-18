@@ -21,6 +21,7 @@ A curated list of object proposals resources for object detection and deep learn
 
 ### Tutorials
 * [ICCV 2015 Tutorial on Tools for Efficient Object Detection] (http://mp7.watson.ibm.com/ICCV2015/ObjectDetectionICCV2015.html)
+  * Jan Hosang, [Region Proposals](http://mp7.watson.ibm.com/ICCV2015/slides/iccv_hosang.pdf).
 
 ### Papers
 #### Low-Level Processing
