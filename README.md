@@ -6,6 +6,7 @@ A curated list of object proposals resources for object detection and deep learn
 - [Introduction](#introduction)
 - [Tutorials](#tutorials)
 - [Papers](#papers)
+  - [Low-Level Processing](#low-level-processing)
   - [Objectness Scoring](#objectness-scoring)
   - [Similarity Grouping](#similarity-grouping)
   - [Supervised Learning](#supervised-learning)
@@ -20,6 +21,11 @@ A curated list of object proposals resources for object detection and deep learn
 * [ICCV 2015 Tutorial on Tools for Efficient Object Detection] (http://mp7.watson.ibm.com/ICCV2015/ObjectDetectionICCV2015.html)
 
 ### Papers
+#### Low-Level Processing
+* Felzenszwalb's segmentation [[Project]](http://cs.brown.edu/~pff/segment/)
+  * Pedro F. Felzenszwalb and Daniel P. Huttenlocher, [Efficient Graph-Based Image Segmentation](http://cs.brown.edu/~pff/papers/seg-ijcv.pdf), IJCV, 2004.
+* Structured Edge Detection [[Code]](https://github.com/pdollar/edges)
+  * Piotr Dollár and C. Lawrence Zitnick, [Structured Forests for Fast Edge Detection ](https://www.microsoft.com/en-us/research/wp-content/uploads/2013/12/DollarICCV13edges.pdf), ICCV, 2013.
 
 #### Objectness Scoring
 * Objectness [[Project]](http://groups.inf.ed.ac.uk/calvin/objectness/)
@@ -31,12 +37,14 @@ A curated list of object proposals resources for object detection and deep learn
   * Ziming Zhang, Jonathan Warrell, and Philip H. S. Torr, [Proposal generation for object detection using cascaded ranking SVMs](https://www.robots.ox.ac.uk/~tvg/publications/2011/ziming_cvpr11.pdf), CVPR, 2011.
 * BING [[Project]](http://mmcheng.net/bing/)
   * Ming-Ming Cheng, Ziming Zhang, Wen-Yan Lin, and Philip Torr, [BING: Binarized Normed Gradients for Objectness Estimation at 300fps](http://mmcheng.net/mftp/Papers/ObjectnessBING.pdf), CVPR, 2014.
+* CrackingBING
+  * Qiyang Zhao, Zhibin Liu, Baolin Yin, [Cracking BING and Beyond](http://www.bmva.org/bmvc/2014/files/paper030.pdf), BMVC, 2014.
 * BING++ 
   * Ziming Zhang, Yun Liu, Tolga Bolukbasi, Ming-Ming Cheng, and Venkatesh Saligrama, [BING++: A Fast High Quality Object Proposal Generator at 100fps](https://arxiv.org/pdf/1511.04511.pdf), arXiv:1511.04511.
+* EdgeBoxes [[Project]](https://www.microsoft.com/en-us/research/publication/edge-boxes-locating-object-proposals-from-edges/) [[Code]](https://github.com/pdollar/edges)
+  * Piotr Dollár and C. Lawrence Zitnick, [Edge Boxes: Locating Object Proposals from Edges](https://www.microsoft.com/en-us/research/wp-content/uploads/2014/09/ZitnickDollarECCV14edgeBoxes.pdf), ECCV, 2014.
 * ContourBox
   * Cewu Lu , Shu Liu, Jiaya Jia and Chi-Keung Tang, [Contour Box: Rejecting Object Proposals Without Explicit Closed Contours](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Lu_Contour_Box_Rejecting_ICCV_2015_paper.pdf), ICCV, 2015.
-* EdgeBoxes [[Project]](https://www.microsoft.com/en-us/research/publication/edge-boxes-locating-object-proposals-from-edges/) [[Code]](https://github.com/pdollar/edges)
-  * Piotr Dollár and C. Lawrence Zitnick, [Edge Boxes: Locating Object Proposals from Edges](http://mmcheng.net/mftp/Papers/ObjectnessBING.pdf), ICCV, 2013.
 
 #### Similarity Grouping
 * CPMC [[Project]](http://home.isr.uc.pt/~joaoluis/cpmc/)
@@ -61,10 +69,22 @@ A curated list of object proposals resources for object detection and deep learn
 * GOP [[Project]](http://www.philkr.net/2014/10/01/eccv/)
   * Philipp Krähenbühl and Vladlen Koltun, [Geodesic Object Proposals](http://www.philkr.net/papers/2014-10-01-eccv/2014-10-01-eccv.pdf), ECCV, 2014.
 
+#### Hybrid / Supervised Learning
+* DeepMask [[Code]](https://github.com/facebookresearch/deepmask)
+  * Pedro O. Pinheiro, Ronan Collobert and Piotr Dollár, [Learning to Segment Object Candidates](https://arxiv.org/pdf/1506.06204.pdf), NIPS, 2015.
+* 3DOP [[Project]](http://www.cs.toronto.edu/objprop3d/)
+  * Xiaozhi Chen, Kaustav Kundu, Yukun Zhu, Andrew Berneshawi, Huimin Ma, Sanja Fidler, and Raquel Urtasun, [3D Object Proposals for Accurate Object Class Detection](http://www.cs.toronto.edu/objprop3d/3dopNIPS15.pdf), NIPS, 2015.
+* Mono3D [[Project]](http://3dimage.ee.tsinghua.edu.cn/cxz/mono3d)
+  * Xiaozhi Chen, Kaustav Kundu, Ziyu Zhang, Huimin Ma, Sanja Fidler, and Raquel Urtasun, [Monocular 3D Object Detection for Autonomous Driving](http://3dimage.ee.tsinghua.edu.cn/files/publications/CVPR16_XiaozhiChen.pdf), CVPR, 2016.
 
-#### Supervised Learning
+* Name [[Project]](link)
+  * Authors, [Title](link), Conf, Year.
 
 #### Re-ranking & Post-processing
+* DeepBox [[Project]](https://github.com/weichengkuo/DeepBox)
+  * Weicheng Kuo, Bharath Hariharan, and Jitendra Malik, [DeepBox: Learning Objectness with Convolutional Networks](https://arxiv.org/pdf/1505.02146.pdf), ICCV, 2015.
+* SharpMask [[Code]](https://github.com/facebookresearch/deepmask)
+  * Pedro O. Pinheiro, Tsung-Yi Lin, Ronan Collobert, and Piotr Dollár, [Learning to Refine Object Segments](https://arxiv.org/pdf/1603.08695.pdf), ECCV, 2016.
 
 #### Evaluation
 * Hosang benchmark [[Project]](http://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/object-recognition-and-scene-understanding/how-good-are-detection-proposals-really/) [[Code]](https://github.com/hosang/detection-proposals)
