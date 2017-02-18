@@ -11,6 +11,7 @@ A curated list of object proposals resources for object detection and deep learn
   - [Similarity Grouping](#similarity-grouping)
   - [Hybrid - Supervised Learning](#hybrid--supervised-learning)
   - [Re-ranking & Post-processing](#re-ranking--post-processing)
+  - [Spatio-Temporal Object Proposals](#spatio--temporal-object-proposals)
   - [Evaluation](#evaluation)
 - [Datasets](#datasets)
   
@@ -78,13 +79,15 @@ A curated list of object proposals resources for object detection and deep learn
   * Philipp Krähenbühl and Vladlen Koltun, [Learning to Propose Objects](http://vladlen.info/papers/lpo.pdf), CVPR, 2015.
 * RPN [[Project]](https://github.com/ShaoqingRen/faster_rcnn)
   * Shaoqing Ren, Kaiming He, Ross Girshick, and Jian Sun, [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf), NIPS, 2015.
+* DeepProposal [[Code]](https://github.com/aghodrati/deepproposal)
+  * Amir Ghodrati, Ali Diba, Marco Pedersoli, Tinne Tuytelaars, and Luc Van Gool, [DeepProposal: Hunting Objects by Cascading Deep Convolutional Layers](https://arxiv.org/pdf/1510.04445.pdf), ICCV, 2015.
 * 3DOP [[Project]](http://www.cs.toronto.edu/objprop3d/)
   * Xiaozhi Chen, Kaustav Kundu, Yukun Zhu, Andrew Berneshawi, Huimin Ma, Sanja Fidler, and Raquel Urtasun, [3D Object Proposals for Accurate Object Class Detection](http://www.cs.toronto.edu/objprop3d/3dopNIPS15.pdf), NIPS, 2015.
 * Mono3D [[Project]](http://3dimage.ee.tsinghua.edu.cn/cxz/mono3d)
   * Xiaozhi Chen, Kaustav Kundu, Ziyu Zhang, Huimin Ma, Sanja Fidler, and Raquel Urtasun, [Monocular 3D Object Detection for Autonomous Driving](http://3dimage.ee.tsinghua.edu.cn/files/publications/CVPR16_XiaozhiChen.pdf), CVPR, 2016.
 * MV3D [[Project]](http://3dimage.ee.tsinghua.edu.cn/cxz)
   * Xiaozhi Chen, Huimin Ma, Ji Wan, Bo Li, and Tian Xia, [Multi-View 3D Object Detection Network for Autonomous Driving](https://arxiv.org/pdf/1611.07759.pdf), arxiv.1611.07759. 2016.
-  
+
 * Name [[Project]](link)
   * Authors, [Title](link), Conf, Year.
 
@@ -96,6 +99,8 @@ A curated list of object proposals resources for object detection and deep learn
   * Weicheng Kuo, Bharath Hariharan, and Jitendra Malik, [DeepBox: Learning Objectness with Convolutional Networks](https://arxiv.org/pdf/1505.02146.pdf), ICCV, 2015.
 * SharpMask [[Code]](https://github.com/facebookresearch/deepmask)
   * Pedro O. Pinheiro, Tsung-Yi Lin, Ronan Collobert, and Piotr Dollár, [Learning to Refine Object Segments](https://arxiv.org/pdf/1603.08695.pdf), ECCV, 2016.
+  
+  #### Spatio-Temporal Object Proposals
 
 #### Evaluation
 * Hosang benchmark [[Project]](http://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/object-recognition-and-scene-understanding/how-good-are-detection-proposals-really/) [[Code]](https://github.com/hosang/detection-proposals)
