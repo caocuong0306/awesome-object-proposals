@@ -30,9 +30,13 @@ A curated list of object proposals resources for object detection and deep learn
 * Cascaded Ranking SVMs [[Code]](https://sites.google.com/a/brookes.ac.uk/zimingzhang/code)
   * Ziming Zhang, Jonathan Warrell, and Philip H. S. Torr, [Proposal generation for object detection using cascaded ranking SVMs](https://www.robots.ox.ac.uk/~tvg/publications/2011/ziming_cvpr11.pdf), CVPR, 2011.
 * BING [[Project]](http://mmcheng.net/bing/)
-   * Ming-Ming Cheng, Ziming Zhang, Wen-Yan Lin, and Philip Torr, [BING: Binarized Normed Gradients for Objectness Estimation at 300fps](http://mmcheng.net/mftp/Papers/ObjectnessBING.pdf), CVPR, 2014.
+  * Ming-Ming Cheng, Ziming Zhang, Wen-Yan Lin, and Philip Torr, [BING: Binarized Normed Gradients for Objectness Estimation at 300fps](http://mmcheng.net/mftp/Papers/ObjectnessBING.pdf), CVPR, 2014.
 * BING++ 
-   * Ziming Zhang, Yun Liu, Tolga Bolukbasi, Ming-Ming Cheng, and Venkatesh Saligrama, [BING++: A Fast High Quality Object Proposal Generator at 100fps](https://arxiv.org/pdf/1511.04511.pdf), arXiv:1511.04511.
+  * Ziming Zhang, Yun Liu, Tolga Bolukbasi, Ming-Ming Cheng, and Venkatesh Saligrama, [BING++: A Fast High Quality Object Proposal Generator at 100fps](https://arxiv.org/pdf/1511.04511.pdf), arXiv:1511.04511.
+* ContourBox
+  * Cewu Lu , Shu Liu, Jiaya Jia and Chi-Keung Tang, [Contour Box: Rejecting Object Proposals Without Explicit Closed Contours](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Lu_Contour_Box_Rejecting_ICCV_2015_paper.pdf), ICCV, 2015.
+* EdgeBoxes [[Project]](https://www.microsoft.com/en-us/research/publication/edge-boxes-locating-object-proposals-from-edges/) [[Code]](https://github.com/pdollar/edges)
+  * Piotr Dollár and C. Lawrence Zitnick, [Edge Boxes: Locating Object Proposals from Edges](http://mmcheng.net/mftp/Papers/ObjectnessBING.pdf), ICCV, 2013.
 
 #### Similarity Grouping
 * CPMC [[Project]](http://home.isr.uc.pt/~joaoluis/cpmc/)
@@ -50,6 +54,13 @@ A curated list of object proposals resources for object detection and deep learn
 * Rantalankila
   * Pekka Rantalankila, Juho Kannala, and Esa Rahtu, [Generating Object Segmentation Proposals Using Global and Local Search
 ](https://users.aalto.fi/~kannalj1/publications/cvpr2014a.pdf), CVPR, 2014.
+* RIGOR [[Project]](http://cpl.cc.gatech.edu/projects/RIGOR/)
+  * Ahmad Humayun, Fuxin Li, and James M. Rehg, [RIGOR: Reusing Inference in Graph Cuts for Generating Object Regions](http://cpl.cc.gatech.edu/projects/RIGOR/pubs/humayun_CVPR_2014_rigor.pdf), CVPR, 2014.
+* MCG [[Project]](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)
+  * Pablo Arbelaez*, Jordi Pont-Tuset*, Jonathan T. Barron, Ferran Marques, Jitendra Malik, [Multiscale Combinatorial Grouping](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/resources/MCG_CVPR2014.pdf), CVPR, 2014.
+* GOP [[Project]](http://www.philkr.net/2014/10/01/eccv/)
+  * Philipp Krähenbühl and Vladlen Koltun, [Geodesic Object Proposals](http://www.philkr.net/papers/2014-10-01-eccv/2014-10-01-eccv.pdf), ECCV, 2014.
+
 
 #### Supervised Learning
 
