@@ -28,7 +28,7 @@ A curated list of object proposals resources for object detection and deep learn
 * Structured Edge Detection [[Code]](https://github.com/pdollar/edges)
   * Piotr Dollár and C. Lawrence Zitnick, [Structured Forests for Fast Edge Detection ](https://www.microsoft.com/en-us/research/wp-content/uploads/2013/12/DollarICCV13edges.pdf), ICCV, 2013.
 
- #### Objectness Scoring
+#### Objectness Scoring
 * Objectness [[Project]](http://groups.inf.ed.ac.uk/calvin/objectness/)
   * Bogdan Alexe, Thomas Deselaers, and Vittorio Ferrari, [What is an object?](http://groups.inf.ed.ac.uk/calvin/Publications/alexe-cvpr10.pdf), CVPR, 2010.
   * Bogdan Alexe, Thomas Deselaers, and Vittorio Ferrari, [Measuring the Objectness of Image Windows](https://www.vision.ee.ethz.ch/publications/papers/techreports/eth_biwi_00882.pdf), TPAMI, 2012.
@@ -47,7 +47,7 @@ A curated list of object proposals resources for object detection and deep learn
 * ContourBox
   * Cewu Lu , Shu Liu, Jiaya Jia and Chi-Keung Tang, [Contour Box: Rejecting Object Proposals Without Explicit Closed Contours](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Lu_Contour_Box_Rejecting_ICCV_2015_paper.pdf), ICCV, 2015.
 
-  #### Similarity Grouping
+#### Similarity Grouping
 * CPMC [[Project]](http://home.isr.uc.pt/~joaoluis/cpmc/)
   * Joao Carreira and Cristian Sminchisescu, [Constrained Parametric Min-Cuts for Automatic Object Segmentation](http://home.isr.uc.pt/~joaoluis/papers/cvpr2010_2.pdf), CVPR, 2010.
   * Joao Carreira and Cristian Sminchisescu, [CPMC: Automatic Object Segmentation Using Constrained Parametric Min-Cuts](http://home.isr.uc.pt/~joaoluis/papers/PAMI2012.pdf), TPAMI, 2012.
@@ -70,7 +70,7 @@ A curated list of object proposals resources for object detection and deep learn
 * GOP [[Project]](http://www.philkr.net/2014/10/01/eccv/)
   * Philipp Krähenbühl and Vladlen Koltun, [Geodesic Object Proposals](http://www.philkr.net/papers/2014-10-01-eccv/2014-10-01-eccv.pdf), ECCV, 2014.
 
-  #### Hybrid / Supervised Learning
+#### Hybrid / Supervised Learning
 * DeepMask [[Code]](https://github.com/facebookresearch/deepmask)
   * Pedro O. Pinheiro, Ronan Collobert and Piotr Dollár, [Learning to Segment Object Candidates](https://arxiv.org/pdf/1506.06204.pdf), NIPS, 2015.
 * Mid-level Cues
@@ -91,7 +91,7 @@ A curated list of object proposals resources for object detection and deep learn
 * Name [[Project]](link)
   * Authors, [Title](link), Conf, Year.
 
-  #### Re-ranking & Post-processing
+#### Re-ranking & Post-processing
 * MTSE [[Project]](http://3dimage.ee.tsinghua.edu.cn/cxz/mtse)
   * Xiaozhi Chen, Huimin Ma, Xiang Wang, Zhichen Zhao, [Improving Object Proposals with Multi-Thresholding Straddling Expansion](http://3dimage.ee.tsinghua.edu.cn/files/publications/CVPR15_XiaozhiChen.pdf), CVPR, 2015.
   * Xiaozhi Chen, Huimin Ma, Chenzhuo Zhu, Xiang Wang, Zhichen Zhao, [Boundary-aware box refinement for object proposal generation](http://3dimage.ee.tsinghua.edu.cn/download?filename=files/publications/NC17_XiaozhiChen.pdf), Neurocomputing, 2017.
@@ -100,7 +100,7 @@ A curated list of object proposals resources for object detection and deep learn
 * SharpMask [[Code]](https://github.com/facebookresearch/deepmask)
   * Pedro O. Pinheiro, Tsung-Yi Lin, Ronan Collobert, and Piotr Dollár, [Learning to Refine Object Segments](https://arxiv.org/pdf/1603.08695.pdf), ECCV, 2016.
   
-  #### Spatio-Temporal Object Proposals
+#### Spatio-Temporal Object Proposals
 
 #### Evaluation
 * Hosang benchmark [[Project]](http://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/object-recognition-and-scene-understanding/how-good-are-detection-proposals-really/) [[Code]](https://github.com/hosang/detection-proposals)
