@@ -71,10 +71,11 @@ A curated list of object proposals resources for object detection and deep learn
 ](https://users.aalto.fi/~kannalj1/publications/cvpr2014a.pdf), CVPR, 2014.
 * RIGOR [[Project]](http://cpl.cc.gatech.edu/projects/RIGOR/)
   * Ahmad Humayun, Fuxin Li, and James M. Rehg, [RIGOR: Reusing Inference in Graph Cuts for Generating Object Regions](http://cpl.cc.gatech.edu/projects/RIGOR/pubs/humayun_CVPR_2014_rigor.pdf), CVPR, 2014.
-* MCG [[Project]](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)
-  * Pablo Arbelaez*, Jordi Pont-Tuset*, Jonathan T. Barron, Ferran Marques, Jitendra Malik, [Multiscale Combinatorial Grouping](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/resources/MCG_CVPR2014.pdf), CVPR, 2014.
 * GOP [[Project]](http://www.philkr.net/2014/10/01/eccv/)
   * Philipp Krähenbühl and Vladlen Koltun, [Geodesic Object Proposals](http://www.philkr.net/papers/2014-10-01-eccv/2014-10-01-eccv.pdf), ECCV, 2014.
+* MCG [[Project]](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)
+  * Pablo Arbelaez*, Jordi Pont-Tuset*, Jonathan T. Barron, Ferran Marques, Jitendra Malik, [Multiscale Combinatorial Grouping](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/resources/MCG_CVPR2014.pdf), CVPR, 2014.
+  * Jordi Pont-Tuset*, Pablo Arbelaez*, Jonathan T. Barron, Ferran Marques, Jitendra Malik, [Multiscale Combinatorial Grouping for Image Segmentation and Object Proposal Generation](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/resources/MCG_arxiv2015_v3.pdf), TPAMI, 2017.
 
 #### Hybrid / Supervised Learning
 * MultiBox [[Project]](https://github.com/google/multibox)
