@@ -30,7 +30,7 @@ A curated list of object proposals resources for object detection.
 
 #### Objectness Scoring
 * Objectness [[Project]](http://groups.inf.ed.ac.uk/calvin/objectness/)
-  ![Objectness](http://groups.inf.ed.ac.uk/calvin/objectness/page/nmsMS+CC+SS_000437.jpg)
+  ![Objectness](https://c1.staticflickr.com/1/309/32687570320_58fbc80ce3_c.jpg)
   * Bogdan Alexe, Thomas Deselaers, and Vittorio Ferrari, [What is an object?](http://groups.inf.ed.ac.uk/calvin/Publications/alexe-cvpr10.pdf), CVPR, 2010.
   * Bogdan Alexe, Thomas Deselaers, and Vittorio Ferrari, [Measuring the Objectness of Image Windows](https://www.vision.ee.ethz.ch/publications/papers/techreports/eth_biwi_00882.pdf), TPAMI, 2012.
 * Rahtu [[Project]](http://www.cse.oulu.fi/CMV/Downloads/ObjectDetection/)
@@ -54,7 +54,7 @@ A curated list of object proposals resources for object detection.
   * Cewu Lu , Shu Liu, Jiaya Jia and Chi-Keung Tang, [Contour Box: Rejecting Object Proposals Without Explicit Closed Contours](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Lu_Contour_Box_Rejecting_ICCV_2015_paper.pdf), ICCV, 2015.
 
 #### Similarity Grouping
-  ![SS](https://ivi.fnwi.uva.nl/isis/publications/2013/UijlingsIJCV2013/image.png)
+  ![SS](https://c1.staticflickr.com/3/2104/33028049336_29f6480e7e_c.jpg)
 * CPMC [[Project]](http://home.isr.uc.pt/~joaoluis/cpmc/)
   * Joao Carreira and Cristian Sminchisescu, [Constrained Parametric Min-Cuts for Automatic Object Segmentation](http://home.isr.uc.pt/~joaoluis/papers/cvpr2010_2.pdf), CVPR, 2010.
   * Joao Carreira and Cristian Sminchisescu, [CPMC: Automatic Object Segmentation Using Constrained Parametric Min-Cuts](http://home.isr.uc.pt/~joaoluis/papers/PAMI2012.pdf), TPAMI, 2012.
@@ -145,8 +145,9 @@ A curated list of object proposals resources for object detection.
   * Katerina Fragkiadaki, Pablo Arbelaez, Panna Felsen, and Jitendra Malik, [Learning to Segment Moving Objects in Videos](https://www.cs.cmu.edu/~katef/papers/CVPR2015_LearnVideoSegment.pdf), CVPR, 2015.
 
 #### Evaluation
-* Hosang benchmark [[Project]](http://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/object-recognition-and-scene-understanding/how-good-are-detection-proposals-really/) [[Code]](https://github.com/hosang/detection-proposals)
-  ![Hosang](https://www.mpi-inf.mpg.de/fileadmin/_processed_/csm_teaser_cars_highres_ca93d7d03a.png)
+![Hosang](https://www.mpi-inf.mpg.de/fileadmin/_processed_/csm_teaser_cars_highres_ca93d7d03a.png)
+* Hosang benchmark
+ [[Project]](http://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/object-recognition-and-scene-understanding/how-good-are-detection-proposals-really/) [[Code]](https://github.com/hosang/detection-proposals)
   * Jan Hosang, Rodrigo Benenson, and Bernt Schiele, [How good are detection proposals, really?](https://arxiv.org/pdf/1406.6962.pdf), BMVC, 2014.
   * Jan Hosang, Rodrigo Benenson, Piotr Dollár, and Bernt Schiele, [What makes for effective detection proposals?](https://arxiv.org/pdf/1502.05082.pdf), TPAMI, 2016.
 * Jordi Pont-Tuset and Luc Van Gool, [Boosting Object Proposals: From Pascal to COCO] (http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/data/PontTusetVanGool-Boosting-ICCV2015.pdf), ICCV, 2015. [[Project]](http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/index.html)
