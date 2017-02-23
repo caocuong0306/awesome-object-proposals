@@ -12,7 +12,7 @@ A curated list of object proposals resources for object detection and deep learn
   - [Supervised Learning](#supervised-learning)
   - [Hybrid & Part-based](#hybrid--part-based)
   - [RGB-D](#rgb-d)
-  - [Re-ranking & Post-processing](#re-ranking--post-processing)
+  - [Re-ranking & Refinement](#re-ranking--refinement)
   - [Spatio-Temporal](#spatio-temporal)
   - [Low-Level Processing](#low-level-processing)
   - [Evaluation](#evaluation)
@@ -129,7 +129,7 @@ A curated list of object proposals resources for object detection and deep learn
 * Elastic Edge Boxes [[Project]](link)
   * Jing Liua, Tongwei Rena, Yuantian Wanga, Sheng-Hua Zhong, Jia Beia, Shengchao Chen, [Object proposal on RGB-D images via elastic edge boxes](link), Neurocomputing, 2017.
 
-#### Re-ranking & Post-processing
+#### Re-ranking & Refinement
 * MTSE [[Project]](http://3dimage.ee.tsinghua.edu.cn/cxz/mtse)
   * Xiaozhi Chen, Huimin Ma, Xiang Wang, Zhichen Zhao, [Improving Object Proposals with Multi-Thresholding Straddling Expansion](http://3dimage.ee.tsinghua.edu.cn/files/publications/CVPR15_XiaozhiChen.pdf), CVPR, 2015.
   * Xiaozhi Chen, Huimin Ma, Chenzhuo Zhu, Xiang Wang, Zhichen Zhao, [Boundary-aware box refinement for object proposal generation](http://3dimage.ee.tsinghua.edu.cn/download?filename=files/publications/NC17_XiaozhiChen.pdf), Neurocomputing, 2017.
