@@ -12,6 +12,7 @@ A curated list of object proposals resources for object detection and deep learn
   - [Similarity Grouping](#similarity-grouping)
   - [Supervised Learning](#supervised-learning)
   - [Hybrid & Part-based Model](#hybrid--part-based-model)
+  - [RGB-D Object Proposals](#rgb-d-object-proposals)
   - [Re-ranking & Post-processing](#re-ranking--post-processing)
   - [Spatio-Temporal Object Proposals](#spatio-temporal-object-proposals)
   - [Evaluation](#evaluation)
@@ -40,6 +41,10 @@ A curated list of object proposals resources for object detection and deep learn
   * Esa Rahtu, Juho Kannala, and Matthew Blaschko, [Learning a Category Independent Object Detection Cascade](http://www.ee.oulu.fi/~jkannala/publications/iccv2011.pdf), ICCV, 2011.
 * Cascaded Ranking SVMs [[Code]](https://sites.google.com/a/brookes.ac.uk/zimingzhang/code)
   * Ziming Zhang, Jonathan Warrell, and Philip H. S. Torr, [Proposal generation for object detection using cascaded ranking SVMs](https://www.robots.ox.ac.uk/~tvg/publications/2011/ziming_cvpr11.pdf), CVPR, 2011.
+* Salient
+  * Jie Feng, Yichen Wei, Litian Tao, Chao Zhang, and Jian Sun, [Salient Object Detection by Composition](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6126348), ICCV, 2011.
+* RandomizedSeeds [[Project]](link)
+  * Michael Van den Bergh, Gemma Roig, Xavier Boix, Santiago Manen, Luc Van Gool, [Online Video SEEDS for Temporal Window Objectness](http://varcity.eu/paper/iccv2013_vandenbergh_videoseeds.pdf), ICCV, 2013.
 * BING [[Project]](http://mmcheng.net/bing/)
   * Ming-Ming Cheng, Ziming Zhang, Wen-Yan Lin, and Philip Torr, [BING: Binarized Normed Gradients for Objectness Estimation at 300fps](http://mmcheng.net/mftp/Papers/ObjectnessBING.pdf), CVPR, 2014.
 * CrackingBING
@@ -62,6 +67,8 @@ A curated list of object proposals resources for object detection and deep learn
 * Selective Search [[Project]](http://koen.me/research/selectivesearch/)
   * Koen E. A. van de Sande, Jasper R. R. Uijlings, Theo Gevers, and Arnold W. M. Smeulders, [Segmentation As Selective Search for Object Recognition](http://koen.me/research/pub/vandesande-iccv2011.pdf), ICCV, 2011.
   * Jasper R. R. Uijlings, Koen E. A. van de Sande, Theo Gevers, and Arnold W. M. Smeulders, [Selective Search for Object Recognition](http://koen.me/research/pub/uijlings-ijcv2013-draft.pdf), IJCV, 2013.
+* ObjSal [[Project]](http://www.iis.sinica.edu.tw/~liutyng/Projects/ObjSal/)
+  * Authors, [Fusing Generic Objectness and Visual Saliency for Salient Object Detection](http://www.iis.sinica.edu.tw/~liutyng/Publication_files/iccv11.pdf), ICCV, 2011.
 * RandomizedPrim [[Project]](http://www.vision.ee.ethz.ch/~smanenfr/rp/index.html)
   * Santiago Manen, Matthieu Guillaumin, and Luc Van Gool, [Prime Object Proposals with Randomized Prim's Algorithm
 ](http://www.vision.ee.ethz.ch/~smanenfr/rp/ManenICCV2013.pdf), ICCV, 2013.
@@ -110,10 +117,12 @@ A curated list of object proposals resources for object detection and deep learn
   * Authors, [Title](link), Conf, Year.
 
 #### Hybrid / Part-based Model
+* ShapeSharing [[Project]](http://vision.cs.utexas.edu/projects/shapesharing/)
+  * Jaechul Kim and Kristen Grauman, [Shape Sharing for Object Segmentation](http://www.cs.utexas.edu/~grauman/papers/shape-sharing-ECCV2012.pdf), ECCV, 2012.
 * OOP [[Project]](http://www.shengfenghe.com/oriented-object-proposals.html)
   * Shengfeng He and Rynson W.H. Lau, [Oriented Object Proposals](link), ICCV, 2015.
 * Object Discovery [[Project]](http://www.di.ens.fr/willow/research/objectdiscovery/)
-  * Minsu Cho1, Suha Kwak1, Cordelia Schmid1, and Jean Ponce, [Unsupervised Object Discovery and Localization in the Wild: Part-based Matching with Bottom-up Region Proposals](http://www.di.ens.fr/willow/pdfscurrent/cho2015.pdf), CVPR, 2015.
+  * Minsu Cho, Suha Kwak, Cordelia Schmid, and Jean Ponce, [Unsupervised Object Discovery and Localization in the Wild: Part-based Matching with Bottom-up Region Proposals](http://www.di.ens.fr/willow/pdfscurrent/cho2015.pdf), CVPR, 2015.
 * Adobe Boxes [[Code]](https://github.com/fzw310/AdobeBoxes-v1.0-/tree/master/AdobeBoxes(v1.0))
   * Authors, [Adobe Boxes: Locating Object Proposals Using Object Adobes](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7488218), TIP, 2016.
 
@@ -133,6 +142,8 @@ A curated list of object proposals resources for object detection and deep learn
   * Pedro O. Pinheiro, Tsung-Yi Lin, Ronan Collobert, and Piotr Dollár, [Learning to Refine Object Segments](https://arxiv.org/pdf/1603.08695.pdf), ECCV, 2016.
 
 #### Spatio-Temporal Object Proposals
+* STMOP [[Project]](https://www.cs.cmu.edu/~katef/videolearn.html)
+  * Katerina Fragkiadaki, Pablo Arbelaez, Panna Felsen, and Jitendra Malik, [Learning to Segment Moving Objects in Videos](https://www.cs.cmu.edu/~katef/papers/CVPR2015_LearnVideoSegment.pdf), CVPR, 2015.
 
 #### Evaluation
 * Hosang benchmark [[Project]](http://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/object-recognition-and-scene-understanding/how-good-are-detection-proposals-really/) [[Code]](https://github.com/hosang/detection-proposals)
