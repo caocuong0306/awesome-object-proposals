@@ -3,7 +3,7 @@
 A curated list of object proposals resources for object detection and deep learning.
 
 =======
-## Table of Contents
+## Table of Contents 3
 - [Introduction](#introduction)
 - [Tutorials](#tutorials)
 - [Papers](#papers)
@@ -14,7 +14,7 @@ A curated list of object proposals resources for object detection and deep learn
   - [Re-ranking & Post-processing](#re-ranking--post-processing)
   - [Spatio-Temporal Object Proposals](#spatio--temporal-object-proposals)
   - [Evaluation](#evaluation)
-- [Datasets](#datasets)  
+- [Datasets](#datasets)   
 
 =======
 - [Datasets](#datasets)
