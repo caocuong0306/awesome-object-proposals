@@ -96,7 +96,7 @@ A curated list of object proposals resources for object detection and deep learn
   * Xiaozhi Chen, Huimin Ma, Ji Wan, Bo Li, and Tian Xia, [Multi-View 3D Object Detection Network for Autonomous Driving](https://arxiv.org/pdf/1611.07759.pdf), arxiv.1611.07759. 2016.
 
 * Name [[Project]](link)
-  * Authors, [Title](link), Conf, Year.  
+  * Authors, [Title](link), Conf, Year.
 
 #### Re-ranking & Post-processing
 * MTSE [[Project]](http://3dimage.ee.tsinghua.edu.cn/cxz/mtse)
