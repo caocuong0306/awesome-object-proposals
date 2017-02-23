@@ -47,7 +47,6 @@ A curated list of object proposals resources for object detection and deep learn
 * CrackingBING
   * Qiyang Zhao, Zhibin Liu, Baolin Yin, [Cracking BING and Beyond](http://www.bmva.org/bmvc/2014/files/paper030.pdf), BMVC, 2014.
 * BING++
->>>>>>> 53b57d2931d4e8584f5f0a0746f7d24d6adf8b1e
   * Ziming Zhang, Yun Liu, Tolga Bolukbasi, Ming-Ming Cheng, and Venkatesh Saligrama, [BING++: A Fast High Quality Object Proposal Generator at 100fps](https://arxiv.org/pdf/1511.04511.pdf), arXiv:1511.04511.
 * EdgeBoxes [[Project]](https://www.microsoft.com/en-us/research/publication/edge-boxes-locating-object-proposals-from-edges/) [[Code]](https://github.com/pdollar/edges)
   * Piotr Dollár and C. Lawrence Zitnick, [Edge Boxes: Locating Object Proposals from Edges](https://www.microsoft.com/en-us/research/wp-content/uploads/2014/09/ZitnickDollarECCV14edgeBoxes.pdf), ECCV, 2014.
