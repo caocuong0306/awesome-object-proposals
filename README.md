@@ -100,6 +100,8 @@ A curated list of object proposals resources for object detection and deep learn
   * Bin Yang, Junjie Yan, Zhen Lei, and Stan Z. Li, [CRAFT Objects From Images](https://arxiv.org/pdf/1604.03239.pdf), CVPR, 2016.
 * AttractioNet [[Project]](https://github.com/gidariss/AttractioNet)
   * Spyros Gidaris and Nikos Komodakis, [Attend Refine Repeat: Active Box Proposal Generation via In-Out Localization](https://arxiv.org/pdf/1606.04446.pdf), BMVC, 2016.
+* SPOP-net
+  * Zequn Jie, Xiaodan Liang, Jiashi Feng, Wen Feng Lu, Eng Hock Francis Tay, and Shuicheng Yan, [Scale-Aware Pixelwise Object Proposal Networks](https://arxiv.org/pdf/1601.04798.pdf), TIP, 2016.
 * MV3D [[Project]](http://3dimage.ee.tsinghua.edu.cn/cxz)
   * Xiaozhi Chen, Huimin Ma, Ji Wan, Bo Li, and Tian Xia, [Multi-View 3D Object Detection Network for Autonomous Driving](https://arxiv.org/pdf/1611.07759.pdf), arxiv.1611.07759. 2016.
 * Name [[Project]](link)
