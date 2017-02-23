@@ -1,6 +1,6 @@
 # awesome-object-proposals [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of object proposals resources for object detection and deep learning.
+A curated list of object proposals resources for object detection.
 
 =======
 ## Table of Contents
@@ -125,7 +125,7 @@ A curated list of object proposals resources for object detection and deep learn
 
 #### RGB-D
 * MCG-D [[Project]](https://github.com/s-gupta/rcnn-depth)
-  * Saurabh Gupta, Ross Girshick, Pablo Arbeláez and Jitendra Malik, [Learning Rich Features from RGB-D Images for Object Detection and Segmentation](link), ECCV, 2014.
+  * Saurabh Gupta, Ross Girshick, Pablo Arbeláez and Jitendra Malik, [Learning Rich Features from RGB-D Images for Object Detection and Segmentation](https://people.eecs.berkeley.edu/~sgupta/pdf/rcnn-depth.pdf), ECCV, 2014.
 * StereoObj [[Dataset]](http://www.cs.cityu.edu.hk/~rynson/papers/demos/StereoObj_Dataset.rar)
   * Shao Huang, Weiqiang Wang, Shengfeng He, and Rynson W.H. Lau, [Stereo Object Proposals​](http://www.cs.cityu.edu.hk/~rynson/papers/tip17.pdf), TIP, 2017.
 * Elastic Edge Boxes [[Project]](link)
