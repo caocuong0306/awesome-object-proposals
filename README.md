@@ -7,14 +7,14 @@ A curated list of object proposals resources for object detection and deep learn
 - [Introduction](#introduction)
 - [Tutorials](#tutorials)
 - [Papers](#papers)
-  - [Low-Level Processing](#low-level-processing)
   - [Objectness Scoring](#objectness-scoring)
   - [Similarity Grouping](#similarity-grouping)
   - [Supervised Learning](#supervised-learning)
-  - [Hybrid & Part-based Model](#hybrid--part-based-model)
-  - [RGB-D Object Proposals](#rgb-d-object-proposals)
+  - [Hybrid & Part-based](#hybrid--part-based)
+  - [RGB-D](#rgb-d)
   - [Re-ranking & Post-processing](#re-ranking--post-processing)
-  - [Spatio-Temporal Object Proposals](#spatio-temporal-object-proposals)
+  - [Spatio-Temporal](#spatio-temporal)
+  - [Low-Level Processing](#low-level-processing)
   - [Evaluation](#evaluation)
 - [Datasets](#datasets)
 
@@ -27,11 +27,6 @@ A curated list of object proposals resources for object detection and deep learn
   * Jan Hosang, [Region Proposals](http://mp7.watson.ibm.com/ICCV2015/slides/iccv_hosang.pdf).
 
 ### Papers
-#### Low-Level Processing
-* Felzenszwalb's segmentation [[Project]](http://cs.brown.edu/~pff/segment/)
-  * Pedro F. Felzenszwalb and Daniel P. Huttenlocher, [Efficient Graph-Based Image Segmentation](http://cs.brown.edu/~pff/papers/seg-ijcv.pdf), IJCV, 2004.
-* Structured Edge Detection [[Code]](https://github.com/pdollar/edges)
-  * Piotr Dollár and C. Lawrence Zitnick, [Structured Forests for Fast Edge Detection ](https://www.microsoft.com/en-us/research/wp-content/uploads/2013/12/DollarICCV13edges.pdf), ICCV, 2013.
 
 #### Objectness Scoring
 * Objectness [[Project]](http://groups.inf.ed.ac.uk/calvin/objectness/)
@@ -111,12 +106,14 @@ A curated list of object proposals resources for object detection and deep learn
   * Zequn Jie, Xiaodan Liang, Jiashi Feng, Wen Feng Lu, Eng Hock Francis Tay, and Shuicheng Yan, [Scale-Aware Pixelwise Object Proposal Networks](https://arxiv.org/pdf/1601.04798.pdf), TIP, 2016.
 * FCN
   * Zequn Jie, Wen Feng Lu, Siavash Sakhavi, Yunchao Wei, Eng Hock Francis Tay, and Shuicheng Yan, [Object Proposal Generation with Fully Convolutional Networks](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7484700), TCSVT, 2016.
+* InstanceFCN
+  * Jifeng Dai, Kaiming He, Yi Li, Shaoqing Ren, and Jian Sun, [Instance-Sensitive Fully Convolutional Networks](https://arxiv.org/pdf/1603.08678.pdf), ECCV, 2016.
 * MV3D [[Project]](http://3dimage.ee.tsinghua.edu.cn/cxz)
   * Xiaozhi Chen, Huimin Ma, Ji Wan, Bo Li, and Tian Xia, [Multi-View 3D Object Detection Network for Autonomous Driving](https://arxiv.org/pdf/1611.07759.pdf), arxiv.1611.07759. 2016.
 * Name [[Project]](link)
   * Authors, [Title](link), Conf, Year.
 
-#### Hybrid / Part-based Model
+#### Hybrid / Part-based
 * ShapeSharing [[Project]](http://vision.cs.utexas.edu/projects/shapesharing/)
   * Jaechul Kim and Kristen Grauman, [Shape Sharing for Object Segmentation](http://www.cs.utexas.edu/~grauman/papers/shape-sharing-ECCV2012.pdf), ECCV, 2012.
 * OOP [[Project]](http://www.shengfenghe.com/oriented-object-proposals.html)
@@ -126,7 +123,7 @@ A curated list of object proposals resources for object detection and deep learn
 * Adobe Boxes [[Code]](https://github.com/fzw310/AdobeBoxes-v1.0-/tree/master/AdobeBoxes(v1.0))
   * Authors, [Adobe Boxes: Locating Object Proposals Using Object Adobes](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7488218), TIP, 2016.
 
-#### RGB-D Object Proposals
+#### RGB-D
 * StereoObj [[Dataset]](http://www.cs.cityu.edu.hk/~rynson/papers/demos/StereoObj_Dataset.rar)
   * Shao Huang, Weiqiang Wang, Shengfeng He, and Rynson W.H. Lau, [Stereo Object Proposals​](http://www.cs.cityu.edu.hk/~rynson/papers/tip17.pdf), TIP, 2017.
 * Elastic Edge Boxes [[Project]](link)
@@ -141,7 +138,7 @@ A curated list of object proposals resources for object detection and deep learn
 * SharpMask [[Code]](https://github.com/facebookresearch/deepmask)
   * Pedro O. Pinheiro, Tsung-Yi Lin, Ronan Collobert, and Piotr Dollár, [Learning to Refine Object Segments](https://arxiv.org/pdf/1603.08695.pdf), ECCV, 2016.
 
-#### Spatio-Temporal Object Proposals
+#### Spatio-Temporal
 * STMOP [[Project]](https://www.cs.cmu.edu/~katef/videolearn.html)
   * Katerina Fragkiadaki, Pablo Arbelaez, Panna Felsen, and Jitendra Malik, [Learning to Segment Moving Objects in Videos](https://www.cs.cmu.edu/~katef/papers/CVPR2015_LearnVideoSegment.pdf), CVPR, 2015.
 
@@ -151,6 +148,12 @@ A curated list of object proposals resources for object detection and deep learn
   * Jan Hosang, Rodrigo Benenson, Piotr Dollár, and Bernt Schiele, [What makes for effective detection proposals?](https://arxiv.org/pdf/1502.05082.pdf), TPAMI, 2016.
 * Jordi Pont-Tuset and Luc Van Gool, [Boosting Object Proposals: From Pascal to COCO] (http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/data/PontTusetVanGool-Boosting-ICCV2015.pdf), ICCV, 2015. [[Project]](http://www.vision.ee.ethz.ch/~biwiproposals/boosting-coco/index.html)
 * Neelima Chavali, Harsh Agrawal, Aroma Mahendru, and Dhruv Batra, [Object-Proposal Evaluation Protocol is 'Gameable'] (https://arxiv.org/pdf/1505.05836.pdf), CVPR, 2016. [[Project]](https://filebox.ece.vt.edu/~aroma/web/object-proposals.html)
+
+#### Low-Level Processing
+* Felzenszwalb's segmentation [[Project]](http://cs.brown.edu/~pff/segment/)
+  * Pedro F. Felzenszwalb and Daniel P. Huttenlocher, [Efficient Graph-Based Image Segmentation](http://cs.brown.edu/~pff/papers/seg-ijcv.pdf), IJCV, 2004.
+* Structured Edge Detection [[Code]](https://github.com/pdollar/edges)
+  * Piotr Dollár and C. Lawrence Zitnick, [Structured Forests for Fast Edge Detection ](https://www.microsoft.com/en-us/research/wp-content/uploads/2013/12/DollarICCV13edges.pdf), ICCV, 2013.
 
 ### Datasets
 * PASCAL [[Project]](http://host.robots.ox.ac.uk/pascal/VOC/)
