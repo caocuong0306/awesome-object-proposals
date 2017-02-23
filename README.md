@@ -68,7 +68,7 @@ A curated list of object proposals resources for object detection and deep learn
   * Koen E. A. van de Sande, Jasper R. R. Uijlings, Theo Gevers, and Arnold W. M. Smeulders, [Segmentation As Selective Search for Object Recognition](http://koen.me/research/pub/vandesande-iccv2011.pdf), ICCV, 2011.
   * Jasper R. R. Uijlings, Koen E. A. van de Sande, Theo Gevers, and Arnold W. M. Smeulders, [Selective Search for Object Recognition](http://koen.me/research/pub/uijlings-ijcv2013-draft.pdf), IJCV, 2013.
 * ObjSal [[Project]](http://www.iis.sinica.edu.tw/~liutyng/Projects/ObjSal/)
-  * Authors, [Fusing Generic Objectness and Visual Saliency for Salient Object Detection](http://www.iis.sinica.edu.tw/~liutyng/Publication_files/iccv11.pdf), ICCV, 2011.
+  * Kai-Yueh Chang, Tyng-Luh Liu, Hwann-Tzong, and Chen Shang-Hong Lai, [Fusing Generic Objectness and Visual Saliency for Salient Object Detection](http://www.iis.sinica.edu.tw/~liutyng/Publication_files/iccv11.pdf), ICCV, 2011.
 * RandomizedPrim [[Project]](http://www.vision.ee.ethz.ch/~smanenfr/rp/index.html)
   * Santiago Manen, Matthieu Guillaumin, and Luc Van Gool, [Prime Object Proposals with Randomized Prim's Algorithm
 ](http://www.vision.ee.ethz.ch/~smanenfr/rp/ManenICCV2013.pdf), ICCV, 2013.
