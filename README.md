@@ -115,7 +115,7 @@ A curated list of object proposals resources for object detection and deep learn
 * Object Discovery [[Project]](http://www.di.ens.fr/willow/research/objectdiscovery/)
   * Minsu Cho1, Suha Kwak1, Cordelia Schmid1, and Jean Ponce, [Unsupervised Object Discovery and Localization in the Wild: Part-based Matching with Bottom-up Region Proposals](http://www.di.ens.fr/willow/pdfscurrent/cho2015.pdf), CVPR, 2015.
 * Adobe Boxes [[Code]](https://github.com/fzw310/AdobeBoxes-v1.0-/tree/master/AdobeBoxes(v1.0))
-  * Authors, [Adobe Boxes: Locating Object Proposals Using Object Adobes], TIP, 2016.
+  * Authors, [Adobe Boxes: Locating Object Proposals Using Object Adobes](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7488218), TIP, 2016.
 
 #### RGB-D Object Proposals
 * StereoObj [[Dataset]](http://www.cs.cityu.edu.hk/~rynson/papers/demos/StereoObj_Dataset.rar)
