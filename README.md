@@ -44,7 +44,8 @@ A curated list of object proposals resources for object detection and deep learn
 * CrackingBING
   * Qiyang Zhao, Zhibin Liu, Baolin Yin, [Cracking BING and Beyond](http://www.bmva.org/bmvc/2014/files/paper030.pdf), BMVC, 2014.
 * BING++
-  * Ziming Zhang, Yun Liu, Tolga Bolukbasi, Ming-Ming Cheng, and Venkatesh Saligrama, [BING++: A Fast High Quality Object Proposal Generator at 100fps](https://arxiv.org/pdf/1511.04511.pdf), arXiv:1511.04511.
+  * Ziming Zhang, Yun Liu, Tolga Bolukbasi, Ming-Ming Cheng, and Venkatesh Saligrama, [BING++: A Fast High Quality Object Proposal Generator at 100fps](https://arxiv.org/pdf/1511.04511v1.pdf), arXiv:1511.04511.
+  * Ziming Zhang, Xi Chen, Yanjun Zhu, Zhiguo Cao, Venkatesh Saligrama, and Philip H.S. Torr, [Sequential Optimization for Efficient High-Quality Object Proposal Generation](https://arxiv.org/pdf/1511.04511.pdf), arXiv:1511.04511v2.
 * EdgeBoxes [[Project]](https://www.microsoft.com/en-us/research/publication/edge-boxes-locating-object-proposals-from-edges/) [[Code]](https://github.com/pdollar/edges)
   * Piotr Dollár and C. Lawrence Zitnick, [Edge Boxes: Locating Object Proposals from Edges](https://www.microsoft.com/en-us/research/wp-content/uploads/2014/09/ZitnickDollarECCV14edgeBoxes.pdf), ECCV, 2014.
 * ContourBox
@@ -94,6 +95,10 @@ A curated list of object proposals resources for object detection and deep learn
   * Xiaozhi Chen, Kaustav Kundu, Ziyu Zhang, Huimin Ma, Sanja Fidler, and Raquel Urtasun, [Monocular 3D Object Detection for Autonomous Driving](http://3dimage.ee.tsinghua.edu.cn/files/publications/CVPR16_XiaozhiChen.pdf), CVPR, 2016.
 * HyperNet
   * Tao Kong, Anbang Yao, Yurong Chen, and Fuchun Sun, [HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kong_HyperNet_Towards_Accurate_CVPR_2016_paper.pdf), CVPR, 2016.
+* CRAFT [[Project]](https://github.com/byangderek/CRAFT)
+  * Bin Yang, Junjie Yan, Zhen Lei, and Stan Z. Li, [CRAFT Objects From Images](https://arxiv.org/pdf/1604.03239.pdf), CVPR, 2016.
+* AttractioNet [[Project]](https://github.com/gidariss/AttractioNet)
+  * Spyros Gidaris and Nikos Komodakis, [Attend Refine Repeat: Active Box Proposal Generation via In-Out Localization](https://arxiv.org/pdf/1606.04446.pdf), BMVC, 2016.
 * MV3D [[Project]](http://3dimage.ee.tsinghua.edu.cn/cxz)
   * Xiaozhi Chen, Huimin Ma, Ji Wan, Bo Li, and Tian Xia, [Multi-View 3D Object Detection Network for Autonomous Driving](https://arxiv.org/pdf/1611.07759.pdf), arxiv.1611.07759. 2016.
 * Name [[Project]](link)
@@ -124,5 +129,7 @@ A curated list of object proposals resources for object detection and deep learn
   * Tsung-Yi Lin, Michael Maire, Serge Belongie, Lubomir Bourdev, Ross Girshick, James Hays, Pietro Perona, Deva Ramanan, C. Lawrence Zitnick, and Piotr Dollár, [Microsoft COCO: Common Objects in Context](https://arxiv.org/pdf/1405.0312.pdf), ECCV, 2014.
 * ImageNet [[Project]](http://www.image-net.org/)
   * Jia Deng, Wei Dong, Richard Socher, Li-Jia Li, Kai Li and Li Fei-Fei, [ImageNet: A Large-Scale Hierarchical Image Database](http://www.image-net.org/papers/imagenet_cvpr09.pdf), CVPR, 2009.
+* NYU Depth Dataset [[Project]](http://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
+  * Nathan Silberman, Pushmeet Kohli, Derek Hoiem, and Rob Fergus, [Indoor Segmentation and Support Inference from RGBD Images](http://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf), ECCV, 2012.
 * KITTI [[Project]](http://www.cvlibs.net/datasets/kitti/index.php)
   * Andreas Geiger and Philip Lenz and Raquel Urtasun, [Are we ready for Autonomous Driving? The KITTI Vision Benchmark Suite](http://www.cvlibs.net/publications/Geiger2012CVPR.pdf), CVPR, 2012.
