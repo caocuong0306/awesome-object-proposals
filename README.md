@@ -14,9 +14,6 @@ A curated list of object proposals resources for object detection and deep learn
   - [Re-ranking & Post-processing](#re-ranking--post-processing)
   - [Spatio-Temporal Object Proposals](#spatio--temporal-object-proposals)
   - [Evaluation](#evaluation)
-- [Datasets](#datasets)   
-
-=======
 - [Datasets](#datasets)
 
 ### Introduction
@@ -95,6 +92,8 @@ A curated list of object proposals resources for object detection and deep learn
   * Xiaozhi Chen, Kaustav Kundu, Yukun Zhu, Andrew Berneshawi, Huimin Ma, Sanja Fidler, and Raquel Urtasun, [3D Object Proposals for Accurate Object Class Detection](http://www.cs.toronto.edu/objprop3d/3dopNIPS15.pdf), NIPS, 2015.
 * Mono3D [[Project]](http://3dimage.ee.tsinghua.edu.cn/cxz/mono3d)
   * Xiaozhi Chen, Kaustav Kundu, Ziyu Zhang, Huimin Ma, Sanja Fidler, and Raquel Urtasun, [Monocular 3D Object Detection for Autonomous Driving](http://3dimage.ee.tsinghua.edu.cn/files/publications/CVPR16_XiaozhiChen.pdf), CVPR, 2016.
+* HyperNet
+  * Tao Kong, Anbang Yao, Yurong Chen, and Fuchun Sun, [HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kong_HyperNet_Towards_Accurate_CVPR_2016_paper.pdf), CVPR, 2016.
 * MV3D [[Project]](http://3dimage.ee.tsinghua.edu.cn/cxz)
   * Xiaozhi Chen, Huimin Ma, Ji Wan, Bo Li, and Tian Xia, [Multi-View 3D Object Detection Network for Autonomous Driving](https://arxiv.org/pdf/1611.07759.pdf), arxiv.1611.07759. 2016.
 * Name [[Project]](link)
