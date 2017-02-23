@@ -13,7 +13,7 @@ A curated list of object proposals resources for object detection and deep learn
   - [Supervised Learning](#supervised-learning)
   - [Hybrid & Part-based Model](#hybrid--part-based-model)
   - [Re-ranking & Post-processing](#re-ranking--post-processing)
-  - [Spatio-Temporal Object Proposals](#spatio--temporal-object-proposals)
+  - [Spatio-Temporal Object Proposals](#spatio-temporal-object-proposals)
   - [Evaluation](#evaluation)
 - [Datasets](#datasets)
 
@@ -125,6 +125,8 @@ A curated list of object proposals resources for object detection and deep learn
 #### RGB-D Object Proposals
 * StereoObj [[Dataset]](http://www.cs.cityu.edu.hk/~rynson/papers/demos/StereoObj_Dataset.rar)
   * Shao Huang, Weiqiang Wang, Shengfeng He, and Rynson W.H. Lau, [Stereo Object Proposals​](http://www.cs.cityu.edu.hk/~rynson/papers/tip17.pdf), TIP, 2017.
+* Elastic Edge Boxes [[Project]](link)
+  * Jing Liua, Tongwei Rena, Yuantian Wanga, Sheng-Hua Zhong, Jia Beia, Shengchao Chen, [Object proposal on RGB-D images via elastic edge boxes](link), Neurocomputing, 2017.
 
 #### Spatio-Temporal Object Proposals
 
