@@ -77,6 +77,9 @@ A curated list of object proposals resources for object detection and deep learn
   * Philipp Krähenbühl and Vladlen Koltun, [Geodesic Object Proposals](http://www.philkr.net/papers/2014-10-01-eccv/2014-10-01-eccv.pdf), ECCV, 2014.
 
 #### Hybrid / Supervised Learning
+* MultiBox [[Project]](https://github.com/google/multibox)
+  * Dumitru Erhan, Christian Szegedy, Alexander Toshev, and Dragomir Anguelov, [Scalable Object Detection using Deep Neural Networks](https://arxiv.org/pdf/1312.2249.pdf), CVPR, 2014.
+  * Christian Szegedy, Scott Reed, Dumitru Erhan, and Dragomir Anguelov, [Scalable, High-Quality Object Detection](https://arxiv.org/pdf/1412.1441.pdf), arXiv:1412.1441.
 * DeepMask [[Code]](https://github.com/facebookresearch/deepmask)
   * Pedro O. Pinheiro, Ronan Collobert and Piotr Dollár, [Learning to Segment Object Candidates](https://arxiv.org/pdf/1506.06204.pdf), NIPS, 2015.
 * Mid-level Cues
@@ -93,7 +96,6 @@ A curated list of object proposals resources for object detection and deep learn
   * Xiaozhi Chen, Kaustav Kundu, Ziyu Zhang, Huimin Ma, Sanja Fidler, and Raquel Urtasun, [Monocular 3D Object Detection for Autonomous Driving](http://3dimage.ee.tsinghua.edu.cn/files/publications/CVPR16_XiaozhiChen.pdf), CVPR, 2016.
 * MV3D [[Project]](http://3dimage.ee.tsinghua.edu.cn/cxz)
   * Xiaozhi Chen, Huimin Ma, Ji Wan, Bo Li, and Tian Xia, [Multi-View 3D Object Detection Network for Autonomous Driving](https://arxiv.org/pdf/1611.07759.pdf), arxiv.1611.07759. 2016.
-
 * Name [[Project]](link)
   * Authors, [Title](link), Conf, Year.
 
