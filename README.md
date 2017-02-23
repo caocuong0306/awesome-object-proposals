@@ -11,6 +11,7 @@ A curated list of object proposals resources for object detection and deep learn
   - [Objectness Scoring](#objectness-scoring)
   - [Similarity Grouping](#similarity-grouping)
   - [Hybrid - Supervised Learning](#hybrid--supervised-learning)
+  - [Part-based Model](#part--based-model)
   - [Re-ranking & Post-processing](#re-ranking--post-processing)
   - [Spatio-Temporal Object Proposals](#spatio--temporal-object-proposals)
   - [Evaluation](#evaluation)
@@ -103,6 +104,12 @@ A curated list of object proposals resources for object detection and deep learn
   * Xiaozhi Chen, Huimin Ma, Ji Wan, Bo Li, and Tian Xia, [Multi-View 3D Object Detection Network for Autonomous Driving](https://arxiv.org/pdf/1611.07759.pdf), arxiv.1611.07759. 2016.
 * Name [[Project]](link)
   * Authors, [Title](link), Conf, Year.
+
+#### Part-based Model
+* Object Discovery [[Project]](http://www.di.ens.fr/willow/research/objectdiscovery/)
+  * Minsu Cho1, Suha Kwak1, Cordelia Schmid1, and Jean Ponce, [Unsupervised Object Discovery and Localization in the Wild: Part-based Matching with Bottom-up Region Proposals](http://www.di.ens.fr/willow/pdfscurrent/cho2015.pdf), CVPR, 2015.
+* Adobe Boxes [[Code]](https://github.com/fzw310/AdobeBoxes-v1.0-/tree/master/AdobeBoxes(v1.0))
+  * Authors, [Adobe Boxes: Locating Object Proposals Using Object Adobes], TIP, 2016.
 
 #### Re-ranking & Post-processing
 * MTSE [[Project]](http://3dimage.ee.tsinghua.edu.cn/cxz/mtse)
