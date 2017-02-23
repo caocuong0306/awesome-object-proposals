@@ -10,8 +10,8 @@ A curated list of object proposals resources for object detection and deep learn
   - [Low-Level Processing](#low-level-processing)
   - [Objectness Scoring](#objectness-scoring)
   - [Similarity Grouping](#similarity-grouping)
-  - [Hybrid - Supervised Learning](#hybrid--supervised-learning)
-  - [Part-based Model](#part-based-model)
+  - [Supervised Learning](#supervised-learning)
+  - [Hybrid & Part-based Model](#hybrid--part-based-model)
   - [Re-ranking & Post-processing](#re-ranking--post-processing)
   - [Spatio-Temporal Object Proposals](#spatio--temporal-object-proposals)
   - [Evaluation](#evaluation)
@@ -76,7 +76,7 @@ A curated list of object proposals resources for object detection and deep learn
   * Pablo Arbelaez*, Jordi Pont-Tuset*, Jonathan T. Barron, Ferran Marques, Jitendra Malik, [Multiscale Combinatorial Grouping](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/resources/MCG_CVPR2014.pdf), CVPR, 2014.
   * Jordi Pont-Tuset*, Pablo Arbelaez*, Jonathan T. Barron, Ferran Marques, Jitendra Malik, [Multiscale Combinatorial Grouping for Image Segmentation and Object Proposal Generation](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/resources/MCG_arxiv2015_v3.pdf), TPAMI, 2017.
 
-#### Hybrid / Supervised Learning
+#### Supervised Learning
 * MultiBox [[Project]](https://github.com/google/multibox)
   * Dumitru Erhan, Christian Szegedy, Alexander Toshev, and Dragomir Anguelov, [Scalable Object Detection using Deep Neural Networks](https://arxiv.org/pdf/1312.2249.pdf), CVPR, 2014.
   * Christian Szegedy, Scott Reed, Dumitru Erhan, and Dragomir Anguelov, [Scalable, High-Quality Object Detection](https://arxiv.org/pdf/1412.1441.pdf), arXiv:1412.1441.
@@ -105,7 +105,9 @@ A curated list of object proposals resources for object detection and deep learn
 * Name [[Project]](link)
   * Authors, [Title](link), Conf, Year.
 
-#### Part-based Model
+#### Hybrid / Part-based Model
+* OOP [[Project]](http://www.shengfenghe.com/oriented-object-proposals.html)
+  * Shengfeng He and Rynson W.H. Lau, [Oriented Object Proposals](link), ICCV, 2015.
 * Object Discovery [[Project]](http://www.di.ens.fr/willow/research/objectdiscovery/)
   * Minsu Cho1, Suha Kwak1, Cordelia Schmid1, and Jean Ponce, [Unsupervised Object Discovery and Localization in the Wild: Part-based Matching with Bottom-up Region Proposals](http://www.di.ens.fr/willow/pdfscurrent/cho2015.pdf), CVPR, 2015.
 * Adobe Boxes [[Code]](https://github.com/fzw310/AdobeBoxes-v1.0-/tree/master/AdobeBoxes(v1.0))
@@ -119,6 +121,10 @@ A curated list of object proposals resources for object detection and deep learn
   * Weicheng Kuo, Bharath Hariharan, and Jitendra Malik, [DeepBox: Learning Objectness with Convolutional Networks](https://arxiv.org/pdf/1505.02146.pdf), ICCV, 2015.
 * SharpMask [[Code]](https://github.com/facebookresearch/deepmask)
   * Pedro O. Pinheiro, Tsung-Yi Lin, Ronan Collobert, and Piotr Dollár, [Learning to Refine Object Segments](https://arxiv.org/pdf/1603.08695.pdf), ECCV, 2016.
+
+#### RGB-D Object Proposals
+* StereoObj [[Dataset]](http://www.cs.cityu.edu.hk/~rynson/papers/demos/StereoObj_Dataset.rar)
+  * Shao Huang, Weiqiang Wang, Shengfeng He, and Rynson W.H. Lau, [Stereo Object Proposals​](http://www.cs.cityu.edu.hk/~rynson/papers/tip17.pdf), TIP, 2017.
 
 #### Spatio-Temporal Object Proposals
 
