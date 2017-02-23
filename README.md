@@ -124,6 +124,8 @@ A curated list of object proposals resources for object detection and deep learn
   * Authors, [Adobe Boxes: Locating Object Proposals Using Object Adobes](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7488218), TIP, 2016.
 
 #### RGB-D
+* MCG-D [[Project]](https://github.com/s-gupta/rcnn-depth)
+  * Saurabh Gupta, Ross Girshick, Pablo Arbeláez and Jitendra Malik, [Learning Rich Features from RGB-D Images for Object Detection and Segmentation](link), ECCV, 2014.
 * StereoObj [[Dataset]](http://www.cs.cityu.edu.hk/~rynson/papers/demos/StereoObj_Dataset.rar)
   * Shao Huang, Weiqiang Wang, Shengfeng He, and Rynson W.H. Lau, [Stereo Object Proposals​](http://www.cs.cityu.edu.hk/~rynson/papers/tip17.pdf), TIP, 2017.
 * Elastic Edge Boxes [[Project]](link)
