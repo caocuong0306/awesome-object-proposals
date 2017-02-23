@@ -161,6 +161,7 @@ A curated list of object proposals resources for object detection.
   * Piotr Dollár and C. Lawrence Zitnick, [Structured Forests for Fast Edge Detection ](https://www.microsoft.com/en-us/research/wp-content/uploads/2013/12/DollarICCV13edges.pdf), ICCV, 2013.
 
 ### Datasets
+  ![COCO](http://mscoco.org/static/images/dataset.jpg)
 * PASCAL [[Project]](http://host.robots.ox.ac.uk/pascal/VOC/)
   * Mark Everingham, Luc Van Gool, Christopher K. I. Williams, John Winn, and Andrew Zisserman, [The PASCAL Visual Object Classes (VOC) Challenge](http://host.robots.ox.ac.uk/pascal/VOC/pubs/everingham10.pdf), IJCV, 2010.
 * MS COCO [[Project]](http://mscoco.org/)
