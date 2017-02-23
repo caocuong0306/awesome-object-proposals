@@ -11,7 +11,7 @@ A curated list of object proposals resources for object detection and deep learn
   - [Objectness Scoring](#objectness-scoring)
   - [Similarity Grouping](#similarity-grouping)
   - [Hybrid - Supervised Learning](#hybrid--supervised-learning)
-  - [Part-based Model](#part--based-model)
+  - [Part-based Model](#part-based-model)
   - [Re-ranking & Post-processing](#re-ranking--post-processing)
   - [Spatio-Temporal Object Proposals](#spatio--temporal-object-proposals)
   - [Evaluation](#evaluation)
