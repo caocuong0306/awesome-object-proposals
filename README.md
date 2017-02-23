@@ -2,11 +2,8 @@
 
 A curated list of object proposals resources for object detection and deep learning.
 
-<<<<<<< HEAD
-## Table of Contents 22
 =======
 ## Table of Contents
->>>>>>> 53b57d2931d4e8584f5f0a0746f7d24d6adf8b1e
 - [Introduction](#introduction)
 - [Tutorials](#tutorials)
 - [Papers](#papers)
@@ -17,13 +14,11 @@ A curated list of object proposals resources for object detection and deep learn
   - [Re-ranking & Post-processing](#re-ranking--post-processing)
   - [Spatio-Temporal Object Proposals](#spatio--temporal-object-proposals)
   - [Evaluation](#evaluation)
-<<<<<<< HEAD
 - [Datasets](#datasets)  
 
 =======
 - [Datasets](#datasets)
-  
->>>>>>> 53b57d2931d4e8584f5f0a0746f7d24d6adf8b1e
+
 ### Introduction
 * [A Seismic Shift in Object Detection] (https://pdollar.wordpress.com/2013/12/10/a-seismic-shift-in-object-detection/) by Piotr Dollár.
 * [Generating Object Proposals] (https://pdollar.wordpress.com/2013/12/22/generating-object-proposals/) by Piotr Dollár.
@@ -51,10 +46,7 @@ A curated list of object proposals resources for object detection and deep learn
   * Ming-Ming Cheng, Ziming Zhang, Wen-Yan Lin, and Philip Torr, [BING: Binarized Normed Gradients for Objectness Estimation at 300fps](http://mmcheng.net/mftp/Papers/ObjectnessBING.pdf), CVPR, 2014.
 * CrackingBING
   * Qiyang Zhao, Zhibin Liu, Baolin Yin, [Cracking BING and Beyond](http://www.bmva.org/bmvc/2014/files/paper030.pdf), BMVC, 2014.
-<<<<<<< HEAD
 * BING++
-=======
-* BING++ 
 >>>>>>> 53b57d2931d4e8584f5f0a0746f7d24d6adf8b1e
   * Ziming Zhang, Yun Liu, Tolga Bolukbasi, Ming-Ming Cheng, and Venkatesh Saligrama, [BING++: A Fast High Quality Object Proposal Generator at 100fps](https://arxiv.org/pdf/1511.04511.pdf), arXiv:1511.04511.
 * EdgeBoxes [[Project]](https://www.microsoft.com/en-us/research/publication/edge-boxes-locating-object-proposals-from-edges/) [[Code]](https://github.com/pdollar/edges)
@@ -104,11 +96,7 @@ A curated list of object proposals resources for object detection and deep learn
   * Xiaozhi Chen, Huimin Ma, Ji Wan, Bo Li, and Tian Xia, [Multi-View 3D Object Detection Network for Autonomous Driving](https://arxiv.org/pdf/1611.07759.pdf), arxiv.1611.07759. 2016.
 
 * Name [[Project]](link)
-<<<<<<< HEAD
   * Authors, [Title](link), Conf, Year.  
-=======
-  * Authors, [Title](link), Conf, Year.
->>>>>>> 53b57d2931d4e8584f5f0a0746f7d24d6adf8b1e
 
 #### Re-ranking & Post-processing
 * MTSE [[Project]](http://3dimage.ee.tsinghua.edu.cn/cxz/mtse)
@@ -118,11 +106,8 @@ A curated list of object proposals resources for object detection and deep learn
   * Weicheng Kuo, Bharath Hariharan, and Jitendra Malik, [DeepBox: Learning Objectness with Convolutional Networks](https://arxiv.org/pdf/1505.02146.pdf), ICCV, 2015.
 * SharpMask [[Code]](https://github.com/facebookresearch/deepmask)
   * Pedro O. Pinheiro, Tsung-Yi Lin, Ronan Collobert, and Piotr Dollár, [Learning to Refine Object Segments](https://arxiv.org/pdf/1603.08695.pdf), ECCV, 2016.
-<<<<<<< HEAD
 
 =======
-  
->>>>>>> 53b57d2931d4e8584f5f0a0746f7d24d6adf8b1e
 #### Spatio-Temporal Object Proposals
 
 #### Evaluation
