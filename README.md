@@ -97,7 +97,7 @@ A curated list of object proposals resources for object detection and deep learn
 * MV3D [[Project]](http://3dimage.ee.tsinghua.edu.cn/cxz)
   * Xiaozhi Chen, Huimin Ma, Ji Wan, Bo Li, and Tian Xia, [Multi-View 3D Object Detection Network for Autonomous Driving](https://arxiv.org/pdf/1611.07759.pdf), arxiv.1611.07759. 2016.
 * Name [[Project]](link)
-  * Authors, [Title](link), Conf, Year. 
+  * Authors, [Title](link), Conf, Year.
 
 #### Re-ranking & Post-processing
 * MTSE [[Project]](http://3dimage.ee.tsinghua.edu.cn/cxz/mtse)
@@ -108,7 +108,6 @@ A curated list of object proposals resources for object detection and deep learn
 * SharpMask [[Code]](https://github.com/facebookresearch/deepmask)
   * Pedro O. Pinheiro, Tsung-Yi Lin, Ronan Collobert, and Piotr Dollár, [Learning to Refine Object Segments](https://arxiv.org/pdf/1603.08695.pdf), ECCV, 2016.
 
-=======
 #### Spatio-Temporal Object Proposals
 
 #### Evaluation
