@@ -29,8 +29,8 @@ A curated list of object proposals resources for object detection.
 ### Papers
 
 #### Objectness Scoring
-* Objectness [[Project]](http://groups.inf.ed.ac.uk/calvin/objectness/)
   ![Objectness](https://c1.staticflickr.com/1/309/32687570320_58fbc80ce3_c.jpg)
+* Objectness [[Project]](http://groups.inf.ed.ac.uk/calvin/objectness/)
   * Bogdan Alexe, Thomas Deselaers, and Vittorio Ferrari, [What is an object?](http://groups.inf.ed.ac.uk/calvin/Publications/alexe-cvpr10.pdf), CVPR, 2010.
   * Bogdan Alexe, Thomas Deselaers, and Vittorio Ferrari, [Measuring the Objectness of Image Windows](https://www.vision.ee.ethz.ch/publications/papers/techreports/eth_biwi_00882.pdf), TPAMI, 2012.
 * Rahtu [[Project]](http://www.cse.oulu.fi/CMV/Downloads/ObjectDetection/)
@@ -81,6 +81,7 @@ A curated list of object proposals resources for object detection.
   * Jordi Pont-Tuset*, Pablo Arbelaez*, Jonathan T. Barron, Ferran Marques, Jitendra Malik, [Multiscale Combinatorial Grouping for Image Segmentation and Object Proposal Generation](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/resources/MCG_arxiv2015_v3.pdf), TPAMI, 2017.
 
 #### Supervised Learning
+![RPN](https://andrewliao11.github.io/images/faster_rcnn/faster_rcnn_netwrok.png)
 * MultiBox [[Project]](https://github.com/google/multibox)
   * Dumitru Erhan, Christian Szegedy, Alexander Toshev, and Dragomir Anguelov, [Scalable Object Detection using Deep Neural Networks](https://arxiv.org/pdf/1312.2249.pdf), CVPR, 2014.
   * Christian Szegedy, Scott Reed, Dumitru Erhan, and Dragomir Anguelov, [Scalable, High-Quality Object Detection](https://arxiv.org/pdf/1412.1441.pdf), arXiv:1412.1441.
