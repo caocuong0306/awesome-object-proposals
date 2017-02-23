@@ -110,8 +110,6 @@ A curated list of object proposals resources for object detection.
   * Jifeng Dai, Kaiming He, Yi Li, Shaoqing Ren, and Jian Sun, [Instance-Sensitive Fully Convolutional Networks](https://arxiv.org/pdf/1603.08678.pdf), ECCV, 2016.
 * MV3D [[Project]](http://3dimage.ee.tsinghua.edu.cn/cxz)
   * Xiaozhi Chen, Huimin Ma, Ji Wan, Bo Li, and Tian Xia, [Multi-View 3D Object Detection Network for Autonomous Driving](https://arxiv.org/pdf/1611.07759.pdf), arxiv.1611.07759. 2016.
-* Name [[Project]](link)
-  * Authors, [Title](link), Conf, Year.
 
 #### Hybrid / Part-based
 * ShapeSharing [[Project]](http://vision.cs.utexas.edu/projects/shapesharing/)
