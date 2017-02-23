@@ -117,6 +117,12 @@ A curated list of object proposals resources for object detection and deep learn
 * Adobe Boxes [[Code]](https://github.com/fzw310/AdobeBoxes-v1.0-/tree/master/AdobeBoxes(v1.0))
   * Authors, [Adobe Boxes: Locating Object Proposals Using Object Adobes], TIP, 2016.
 
+#### RGB-D Object Proposals
+* StereoObj [[Dataset]](http://www.cs.cityu.edu.hk/~rynson/papers/demos/StereoObj_Dataset.rar)
+  * Shao Huang, Weiqiang Wang, Shengfeng He, and Rynson W.H. Lau, [Stereo Object Proposals​](http://www.cs.cityu.edu.hk/~rynson/papers/tip17.pdf), TIP, 2017.
+* Elastic Edge Boxes [[Project]](link)
+  * Jing Liua, Tongwei Rena, Yuantian Wanga, Sheng-Hua Zhong, Jia Beia, Shengchao Chen, [Object proposal on RGB-D images via elastic edge boxes](link), Neurocomputing, 2017.
+
 #### Re-ranking & Post-processing
 * MTSE [[Project]](http://3dimage.ee.tsinghua.edu.cn/cxz/mtse)
   * Xiaozhi Chen, Huimin Ma, Xiang Wang, Zhichen Zhao, [Improving Object Proposals with Multi-Thresholding Straddling Expansion](http://3dimage.ee.tsinghua.edu.cn/files/publications/CVPR15_XiaozhiChen.pdf), CVPR, 2015.
@@ -125,12 +131,6 @@ A curated list of object proposals resources for object detection and deep learn
   * Weicheng Kuo, Bharath Hariharan, and Jitendra Malik, [DeepBox: Learning Objectness with Convolutional Networks](https://arxiv.org/pdf/1505.02146.pdf), ICCV, 2015.
 * SharpMask [[Code]](https://github.com/facebookresearch/deepmask)
   * Pedro O. Pinheiro, Tsung-Yi Lin, Ronan Collobert, and Piotr Dollár, [Learning to Refine Object Segments](https://arxiv.org/pdf/1603.08695.pdf), ECCV, 2016.
-
-#### RGB-D Object Proposals
-* StereoObj [[Dataset]](http://www.cs.cityu.edu.hk/~rynson/papers/demos/StereoObj_Dataset.rar)
-  * Shao Huang, Weiqiang Wang, Shengfeng He, and Rynson W.H. Lau, [Stereo Object Proposals​](http://www.cs.cityu.edu.hk/~rynson/papers/tip17.pdf), TIP, 2017.
-* Elastic Edge Boxes [[Project]](link)
-  * Jing Liua, Tongwei Rena, Yuantian Wanga, Sheng-Hua Zhong, Jia Beia, Shengchao Chen, [Object proposal on RGB-D images via elastic edge boxes](link), Neurocomputing, 2017.
 
 #### Spatio-Temporal Object Proposals
 
