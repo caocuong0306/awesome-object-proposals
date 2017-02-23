@@ -3,7 +3,7 @@
 A curated list of object proposals resources for object detection and deep learning.
 
 =======
-## Table of Contents 2
+## Table of Contents
 - [Introduction](#introduction)
 - [Tutorials](#tutorials)
 - [Papers](#papers)
