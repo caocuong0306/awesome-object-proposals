@@ -140,7 +140,7 @@ A curated list of object proposals resources for object detection.
   * Weicheng Kuo, Bharath Hariharan, and Jitendra Malik, [DeepBox: Learning Objectness with Convolutional Networks](https://arxiv.org/pdf/1505.02146.pdf), ICCV, 2015.
 * SharpMask [[Code]](https://github.com/facebookresearch/deepmask)
   * Pedro O. Pinheiro, Tsung-Yi Lin, Ronan Collobert, and Piotr Dollár, [Learning to Refine Object Segments](https://arxiv.org/pdf/1603.08695.pdf), ECCV, 2016.
-* DeepStereoOP [[KITTI proposals]]
+* DeepStereoOP
   * Cuong C. Pham and Jae Wook Jeon, [Robust Object Proposals Re-ranking for Object Detection in Autonomous Driving Using Convolutional Neural Networks](http://www.sciencedirect.com/science/article/pii/S0923596517300231), SPIC, 2017.
 
 #### Spatio-Temporal
