@@ -130,7 +130,7 @@ A curated list of object proposals resources for object detection.
 * StereoObj [[Dataset]](http://www.cs.cityu.edu.hk/~rynson/papers/demos/StereoObj_Dataset.rar)
   * Shao Huang, Weiqiang Wang, Shengfeng He, and Rynson W.H. Lau, [Stereo Object Proposals​](http://www.cs.cityu.edu.hk/~rynson/papers/tip17.pdf), TIP, 2017.
 * Elastic Edge Boxes [[Project]](link)
-  * Jing Liua, Tongwei Rena, Yuantian Wanga, Sheng-Hua Zhong, Jia Beia, Shengchao Chen, [Object proposal on RGB-D images via elastic edge boxes](link), Neurocomputing, 2017.
+  * Jing Liua, Tongwei Rena, Yuantian Wanga, Sheng-Hua Zhong, Jia Beia, Shengchao Chen, [Object proposal on RGB-D images via elastic edge boxes](http://www.sciencedirect.com/science/article/pii/S0925231216314266), Neurocomputing, 2017.
 
 #### Re-ranking & Refinement
 * MTSE [[Project]](http://3dimage.ee.tsinghua.edu.cn/cxz/mtse)
