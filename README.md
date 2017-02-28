@@ -148,7 +148,7 @@ A curated list of object proposals resources for object detection.
   * Katerina Fragkiadaki, Pablo Arbelaez, Panna Felsen, and Jitendra Malik, [Learning to Segment Moving Objects in Videos](https://www.cs.cmu.edu/~katef/papers/CVPR2015_LearnVideoSegment.pdf), CVPR, 2015.
 
 #### Evaluation
-![Hosang](https://www.mpi-inf.mpg.de/fileadmin/_processed_/csm_teaser_cars_highres_ca93d7d03a.png)
+![Hosang](https://c1.staticflickr.com/1/721/33003654282_6b18185807_b.jpg)
 * Hosang benchmark
  [[Project]](http://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/object-recognition-and-scene-understanding/how-good-are-detection-proposals-really/) [[Code]](https://github.com/hosang/detection-proposals)
   * Jan Hosang, Rodrigo Benenson, and Bernt Schiele, [How good are detection proposals, really?](https://arxiv.org/pdf/1406.6962.pdf), BMVC, 2014.
@@ -163,7 +163,7 @@ A curated list of object proposals resources for object detection.
   * Piotr Dollár and C. Lawrence Zitnick, [Structured Forests for Fast Edge Detection ](https://www.microsoft.com/en-us/research/wp-content/uploads/2013/12/DollarICCV13edges.pdf), ICCV, 2013.
 
 ### Datasets
-  ![COCO](http://mscoco.org/static/images/dataset.jpg)
+  ![COCO](https://c2.staticflickr.com/4/3690/33003654372_bea4d16186_b.jpg)
 * PASCAL [[Project]](http://host.robots.ox.ac.uk/pascal/VOC/)
   * Mark Everingham, Luc Van Gool, Christopher K. I. Williams, John Winn, and Andrew Zisserman, [The PASCAL Visual Object Classes (VOC) Challenge](http://host.robots.ox.ac.uk/pascal/VOC/pubs/everingham10.pdf), IJCV, 2010.
 * MS COCO [[Project]](http://mscoco.org/)
