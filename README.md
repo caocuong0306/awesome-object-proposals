@@ -54,7 +54,7 @@ A curated list of object proposals resources for object detection.
   * Cewu Lu , Shu Liu, Jiaya Jia and Chi-Keung Tang, [Contour Box: Rejecting Object Proposals Without Explicit Closed Contours](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Lu_Contour_Box_Rejecting_ICCV_2015_paper.pdf), ICCV, 2015.
 
 #### Similarity Grouping
-  ![SS](https://c1.staticflickr.com/3/2104/33028049336_29f6480e7e_c.jpg)
+  ![SS](https://c2.staticflickr.com/4/3852/33003653872_6c034b1c93_o.jpg)
 * CPMC [[Project]](http://home.isr.uc.pt/~joaoluis/cpmc/)
   * Joao Carreira and Cristian Sminchisescu, [Constrained Parametric Min-Cuts for Automatic Object Segmentation](http://home.isr.uc.pt/~joaoluis/papers/cvpr2010_2.pdf), CVPR, 2010.
   * Joao Carreira and Cristian Sminchisescu, [CPMC: Automatic Object Segmentation Using Constrained Parametric Min-Cuts](http://home.isr.uc.pt/~joaoluis/papers/PAMI2012.pdf), TPAMI, 2012.
