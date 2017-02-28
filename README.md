@@ -158,7 +158,7 @@ A curated list of object proposals resources for object detection.
 * Neelima Chavali, Harsh Agrawal, Aroma Mahendru, and Dhruv Batra, [Object-Proposal Evaluation Protocol is 'Gameable'] (https://arxiv.org/pdf/1505.05836.pdf), CVPR, 2016. [[Project]](https://filebox.ece.vt.edu/~aroma/web/object-proposals.html)
 
 #### Low-Level Processing
-![Low-level](https://c2.staticflickr.com/4/3801/33163256395_fdfed8e710_z.jpg)
+![Low-level](https://c2.staticflickr.com/4/3801/33163256395_fdfed8e710_c.jpg)
 * Felzenszwalb's segmentation [[Project]](http://cs.brown.edu/~pff/segment/)
   * Pedro F. Felzenszwalb and Daniel P. Huttenlocher, [Efficient Graph-Based Image Segmentation](http://cs.brown.edu/~pff/papers/seg-ijcv.pdf), IJCV, 2004.
 * SLIC [[Project]](http://ivrl.epfl.ch/research/superpixels)
