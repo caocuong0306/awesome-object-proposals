@@ -81,7 +81,7 @@ A curated list of object proposals resources for object detection.
   * Jordi Pont-Tuset*, Pablo Arbelaez*, Jonathan T. Barron, Ferran Marques, Jitendra Malik, [Multiscale Combinatorial Grouping for Image Segmentation and Object Proposal Generation](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/resources/MCG_arxiv2015_v3.pdf), TPAMI, 2017.
 
 #### Supervised Learning
-![RPN](https://andrewliao11.github.io/images/faster_rcnn/faster_rcnn_netwrok.png)
+![RPN](https://c2.staticflickr.com/4/3821/33118567676_fecd47a78c_b.jpg)
 * MultiBox [[Project]](https://github.com/google/multibox)
   * Dumitru Erhan, Christian Szegedy, Alexander Toshev, and Dragomir Anguelov, [Scalable Object Detection using Deep Neural Networks](https://arxiv.org/pdf/1312.2249.pdf), CVPR, 2014.
   * Christian Szegedy, Scott Reed, Dumitru Erhan, and Dragomir Anguelov, [Scalable, High-Quality Object Detection](https://arxiv.org/pdf/1412.1441.pdf), arXiv:1412.1441.
