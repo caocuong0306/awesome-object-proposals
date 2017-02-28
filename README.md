@@ -134,6 +134,7 @@ A curated list of object proposals resources for object detection.
   * Jing Liu, Tongwei Ren, Yuantian Wang, Sheng-Hua Zhong, Jia Bei, Shengchao Chen, [Object proposal on RGB-D images via elastic edge boxes](http://www.sciencedirect.com/science/article/pii/S0925231216314266), Neurocomputing, 2017.
 
 #### Re-ranking & Refinement
+![Re-ranking](https://c1.staticflickr.com/3/2880/32318038054_53b1b453eb_c.jpg)
 * MTSE [[Project]](http://3dimage.ee.tsinghua.edu.cn/cxz/mtse)
   * Xiaozhi Chen, Huimin Ma, Xiang Wang, Zhichen Zhao, [Improving Object Proposals with Multi-Thresholding Straddling Expansion](http://3dimage.ee.tsinghua.edu.cn/files/publications/CVPR15_XiaozhiChen.pdf), CVPR, 2015.
   * Xiaozhi Chen, Huimin Ma, Chenzhuo Zhu, Xiang Wang, Zhichen Zhao, [Boundary-aware box refinement for object proposal generation](http://3dimage.ee.tsinghua.edu.cn/download?filename=files/publications/NC17_XiaozhiChen.pdf), Neurocomputing, 2017.
@@ -161,7 +162,7 @@ A curated list of object proposals resources for object detection.
 ![Low-level](https://c2.staticflickr.com/4/3801/33163256395_fdfed8e710_c.jpg)
 * Felzenszwalb's segmentation [[Project]](http://cs.brown.edu/~pff/segment/)
   * Pedro F. Felzenszwalb and Daniel P. Huttenlocher, [Efficient Graph-Based Image Segmentation](http://cs.brown.edu/~pff/papers/seg-ijcv.pdf), IJCV, 2004.
-* SLIC [[Project]](http://ivrl.epfl.ch/research/superpixels)
+* SLIC Superpixels [[Project]](http://ivrl.epfl.ch/research/superpixels)
   * Radhakrishna Achanta, Appu Shaji, Kevin Smith, Aurelien Lucchi, Pascal Fua, and Sabine Süsstrunk, [SLIC Superpixels Compared to State-of-the-art Superpixel Methods](https://infoscience.epfl.ch/record/177415/files/Superpixel_PAMI2011-2.pdf), TPAMI, 2012.
 * Structured Edge Detection [[Code]](https://github.com/pdollar/edges)
   * Piotr Dollár and C. Lawrence Zitnick, [Structured Forests for Fast Edge Detection ](https://www.microsoft.com/en-us/research/wp-content/uploads/2013/12/DollarICCV13edges.pdf), ICCV, 2013.
