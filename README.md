@@ -17,6 +17,7 @@ A curated list of object proposals resources for object detection.
   - [Low-Level Processing](#low-level-processing)
   - [Evaluation](#evaluation)
 - [Datasets](#datasets)
+- [Object Detection](#object-detection)
 
 ### Introduction
 * [A Seismic Shift in Object Detection] (https://pdollar.wordpress.com/2013/12/10/a-seismic-shift-in-object-detection/) by Piotr Dollár.
@@ -174,3 +175,20 @@ A curated list of object proposals resources for object detection.
   * Nathan Silberman, Pushmeet Kohli, Derek Hoiem, and Rob Fergus, [Indoor Segmentation and Support Inference from RGBD Images](http://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf), ECCV, 2012.
 * KITTI [[Project]](http://www.cvlibs.net/datasets/kitti/index.php)
   * Andreas Geiger and Philip Lenz and Raquel Urtasun, [Are we ready for Autonomous Driving? The KITTI Vision Benchmark Suite](http://www.cvlibs.net/publications/Geiger2012CVPR.pdf), CVPR, 2012.
+
+#### Object Detection
+  ![FastR-CNN](https://c1.staticflickr.com/1/715/32316133964_046a1c0f14_c.jpg)
+* R-FCN [[Paper]](https://arxiv.org/pdf/1605.06409.pdf)[[Code]](https://github.com/daijifeng001/r-fcn)[[PyCode]](https://github.com/Orpine/py-R-FCN)
+  * Jifeng Dai, Yi Li, Kaiming He, Jian Sun, R-FCN: Object Detection via Region-based Fully Convolutional Networks, NIPS, 2016.
+* SSD [[Paper]](https://arxiv.org/pdf/1512.02325v2.pdf)[[Code]](https://github.com/weiliu89/caffe/tree/ssd)
+  * Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang Fu, Alexander C. Berg, SSD: Single Shot MultiBox Detector, ECCV, 2016.
+* YOLO [[Paper]](http://pjreddie.com/media/files/papers/yolo.pdf)[[Code]](http://pjreddie.com/darknet/yolo/)
+  * Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, You Only Look Once: Unified, Real-Time Object Detection, ECCV, 2016.
+* Faster R-CNN [[Paper]](https://arxiv.org/pdf/1506.01497.pdf)[[Code]](https://github.com/ShaoqingRen/faster_rcnn) [[PyCode]] (https://github.com/rbgirshick/py-faster-rcnn)
+  * Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks, NIPS, 2015.
+* Fast R-CNN [[Paper]](https://arxiv.org/pdf/1504.08083.pdf)[[Code]](https://github.com/rbgirshick/fast-rcnn)
+  * Ross Girshick, Fast R-CNN, ICCV, 2015.
+* SPP [[Paper]](https://arxiv.org/pdf/1406.4729.pdf)[[Code]](https://github.com/ShaoqingRen/SPP_net)
+  * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition, ECCV, 2014.
+* R-CNN [[Paper]](https://arxiv.org/pdf/1311.2524.pdf)[[Code]](https://github.com/rbgirshick/rcnn)
+  * Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik, Rich feature hierarchies for accurate object detection and semantic segmentation, CVPR, 2014.
