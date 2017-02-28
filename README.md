@@ -158,8 +158,11 @@ A curated list of object proposals resources for object detection.
 * Neelima Chavali, Harsh Agrawal, Aroma Mahendru, and Dhruv Batra, [Object-Proposal Evaluation Protocol is 'Gameable'] (https://arxiv.org/pdf/1505.05836.pdf), CVPR, 2016. [[Project]](https://filebox.ece.vt.edu/~aroma/web/object-proposals.html)
 
 #### Low-Level Processing
+![Low-level](https://c1.staticflickr.com/3/2939/33163181385_6386e3f029_c.jpg)
 * Felzenszwalb's segmentation [[Project]](http://cs.brown.edu/~pff/segment/)
   * Pedro F. Felzenszwalb and Daniel P. Huttenlocher, [Efficient Graph-Based Image Segmentation](http://cs.brown.edu/~pff/papers/seg-ijcv.pdf), IJCV, 2004.
+* SLIC [[Project]](http://ivrl.epfl.ch/research/superpixels)
+  * Radhakrishna Achanta, Appu Shaji, Kevin Smith, Aurelien Lucchi, Pascal Fua, and Sabine Süsstrunk, [SLIC Superpixels Compared to State-of-the-art Superpixel Methods](https://infoscience.epfl.ch/record/177415/files/Superpixel_PAMI2011-2.pdf), TPAMI, 2012.
 * Structured Edge Detection [[Code]](https://github.com/pdollar/edges)
   * Piotr Dollár and C. Lawrence Zitnick, [Structured Forests for Fast Edge Detection ](https://www.microsoft.com/en-us/research/wp-content/uploads/2013/12/DollarICCV13edges.pdf), ICCV, 2013.
 
