@@ -40,7 +40,7 @@ A curated list of object proposals resources for object detection.
   * Ziming Zhang, Jonathan Warrell, and Philip H. S. Torr, [Proposal generation for object detection using cascaded ranking SVMs](https://www.robots.ox.ac.uk/~tvg/publications/2011/ziming_cvpr11.pdf), CVPR, 2011.
 * Salient
   * Jie Feng, Yichen Wei, Litian Tao, Chao Zhang, and Jian Sun, [Salient Object Detection by Composition](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6126348), ICCV, 2011.
-* RandomizedSeeds [[Project]](link)
+* RandomizedSeeds
   * Michael Van den Bergh, Gemma Roig, Xavier Boix, Santiago Manen, Luc Van Gool, [Online Video SEEDS for Temporal Window Objectness](http://varcity.eu/paper/iccv2013_vandenbergh_videoseeds.pdf), ICCV, 2013.
 * BING [[Project]](http://mmcheng.net/bing/)
   * Ming-Ming Cheng, Ziming Zhang, Wen-Yan Lin, and Philip Torr, [BING: Binarized Normed Gradients for Objectness Estimation at 300fps](http://mmcheng.net/mftp/Papers/ObjectnessBING.pdf), CVPR, 2014.
@@ -119,7 +119,7 @@ A curated list of object proposals resources for object detection.
 * ShapeSharing [[Project]](http://vision.cs.utexas.edu/projects/shapesharing/)
   * Jaechul Kim and Kristen Grauman, [Shape Sharing for Object Segmentation](http://www.cs.utexas.edu/~grauman/papers/shape-sharing-ECCV2012.pdf), ECCV, 2012.
 * OOP [[Project]](http://www.shengfenghe.com/oriented-object-proposals.html)
-  * Shengfeng He and Rynson W.H. Lau, [Oriented Object Proposals](link), ICCV, 2015.
+  * Shengfeng He and Rynson W.H. Lau, [Oriented Object Proposals](http://www.shengfenghe.com/uploads/1/5/1/3/15132160/oop_iccv15.pdf), ICCV, 2015.
 * Object Discovery [[Project]](http://www.di.ens.fr/willow/research/objectdiscovery/)
   * Minsu Cho, Suha Kwak, Cordelia Schmid, and Jean Ponce, [Unsupervised Object Discovery and Localization in the Wild: Part-based Matching with Bottom-up Region Proposals](http://www.di.ens.fr/willow/pdfscurrent/cho2015.pdf), CVPR, 2015.
 * Adobe Boxes [[Code]](https://github.com/fzw310/AdobeBoxes-v1.0-/tree/master/AdobeBoxes(v1.0))
@@ -130,7 +130,7 @@ A curated list of object proposals resources for object detection.
   * Saurabh Gupta, Ross Girshick, Pablo Arbeláez and Jitendra Malik, [Learning Rich Features from RGB-D Images for Object Detection and Segmentation](https://people.eecs.berkeley.edu/~sgupta/pdf/rcnn-depth.pdf), ECCV, 2014.
 * StereoObj [[Dataset]](http://www.cs.cityu.edu.hk/~rynson/papers/demos/StereoObj_Dataset.rar)
   * Shao Huang, Weiqiang Wang, Shengfeng He, and Rynson W.H. Lau, [Stereo Object Proposals​](http://www.cs.cityu.edu.hk/~rynson/papers/tip17.pdf), TIP, 2017.
-* Elastic Edge Boxes [[Project]](link)
+* Elastic Edge Boxes
   * Jing Liu, Tongwei Ren, Yuantian Wang, Sheng-Hua Zhong, Jia Bei, Shengchao Chen, [Object proposal on RGB-D images via elastic edge boxes](http://www.sciencedirect.com/science/article/pii/S0925231216314266), Neurocomputing, 2017.
 
 #### Re-ranking & Refinement
