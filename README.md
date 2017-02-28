@@ -29,7 +29,7 @@ A curated list of object proposals resources for object detection.
 ### Papers
 
 #### Objectness Scoring
-  ![Objectness](https://c1.staticflickr.com/1/309/32687570320_58fbc80ce3_c.jpg)
+  ![Objectness](https://c1.staticflickr.com/1/663/32314463274_08d665453b_b.jpg)
 * Objectness [[Project]](http://groups.inf.ed.ac.uk/calvin/objectness/)
   * Bogdan Alexe, Thomas Deselaers, and Vittorio Ferrari, [What is an object?](http://groups.inf.ed.ac.uk/calvin/Publications/alexe-cvpr10.pdf), CVPR, 2010.
   * Bogdan Alexe, Thomas Deselaers, and Vittorio Ferrari, [Measuring the Objectness of Image Windows](https://www.vision.ee.ethz.ch/publications/papers/techreports/eth_biwi_00882.pdf), TPAMI, 2012.
