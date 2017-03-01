@@ -198,6 +198,6 @@ A curated list of object proposals resources for object detection.
   * Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik, [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/pdf/1311.2524.pdf), CVPR, 2014.
 
 ## Notes
-I hope this repository is helpful to everyone who're interested in this topic. As Piotr Dollár said, it’s an amazing time to be doing research in object detection (and deep learning).
+I hope this repository is helpful to everyone who're interested in this awesome topic. As Piotr Dollár said, it’s an amazing time to be doing research in object detection (and deep learning).
 
-Thank you very much for your star and appreciation, and feel free to send a [pull request](https://github.com/caocuong0306/awesome-object-proposals/pulls) if you have anything in mind that would fit in this list!
+Thank you very much for your star and appreciation. Feel free to send a [pull request](https://github.com/caocuong0306/awesome-object-proposals/pulls) if you have anything in mind that would fit in this list!
