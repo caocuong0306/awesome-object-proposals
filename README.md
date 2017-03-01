@@ -200,4 +200,4 @@ A curated list of object proposals resources for object detection.
 ## Notes
 I hope this repository is helpful to everyone who're interested in this awesome topic. As Piotr Dollár said, it’s an amazing time to be doing research in object detection (and deep learning).
 
-Thank you very much for your star and appreciation. Feel free to send a [pull request](https://github.com/caocuong0306/awesome-object-proposals/pulls) if you have anything in mind that would fit in this list!
+Feel free to send a [pull request](https://github.com/caocuong0306/awesome-object-proposals/pulls) if you have anything in mind that would fit in this list. Thank you!
