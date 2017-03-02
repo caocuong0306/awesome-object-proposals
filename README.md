@@ -146,6 +146,8 @@ A curated list of object proposals resources for object detection.
   * Cuong C. Pham and Jae Wook Jeon, [Robust Object Proposals Re-ranking for Object Detection in Autonomous Driving Using Convolutional Neural Networks](http://www.sciencedirect.com/science/article/pii/S0923596517300231), SPIC, 2017.
 
 #### Spatio-Temporal
+* 3Dproposals [[Project]](http://lear.inrialpes.fr/~oneata/3Dproposals/)
+  * Dan Oneata, Jerome Revaud, Jakob Verbeek, Cordelia Schmid, [Spatio-temporal Object Detection Proposals](https://hal.inria.fr/file/index/docid/1021902/filename/proof.pdf), ECCV, 2014.
 * STMOP [[Project]](https://www.cs.cmu.edu/~katef/videolearn.html)
   * Katerina Fragkiadaki, Pablo Arbelaez, Panna Felsen, and Jitendra Malik, [Learning to Segment Moving Objects in Videos](https://www.cs.cmu.edu/~katef/papers/CVPR2015_LearnVideoSegment.pdf), CVPR, 2015.
 
