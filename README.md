@@ -188,8 +188,12 @@ A curated list of object proposals resources for object detection.
   * Jifeng Dai, Yi Li, Kaiming He, Jian Sun, [R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://arxiv.org/pdf/1605.06409.pdf), NIPS, 2016.
 * SSD [[Code]](https://github.com/weiliu89/caffe/tree/ssd)
   * Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang Fu, Alexander C. Berg, [SSD: Single Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325v2.pdf), ECCV, 2016.
+* DSSD [[Project]](http://www.cs.unc.edu/~cyfu/)
+  * Cheng-Yang Fu, Wei Liu, Ananth Ranga, Ambrish Tyagi, Alexander C. Berg, [DSSD : Deconvolutional Single Shot Detector](https://arxiv.org/pdf/1701.06659.pdf), arXiv:1701.06659, 2017.
 * YOLO [[Code]](http://pjreddie.com/darknet/yolo/)
   * Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi, [You Only Look Once: Unified, Real-Time Object Detection](http://pjreddie.com/media/files/papers/yolo.pdf), ECCV, 2016.
+* YOLO2 [[Code]](http://pjreddie.com/darknet/yolo/)
+  * Joseph Redmon, Ali Farhadi, [YOLO9000: Better, Faster, Stronger](https://pjreddie.com/media/files/papers/YOLO9000.pdf), CVPR, 2017.
 * Faster R-CNN [[Code]](https://github.com/ShaoqingRen/faster_rcnn) [[PyCode]] (https://github.com/rbgirshick/py-faster-rcnn)
   * Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun, [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf), NIPS, 2015.
 * Fast R-CNN [[Code]](https://github.com/rbgirshick/fast-rcnn)
