@@ -82,6 +82,12 @@ A curated list of object proposals resources for object detection.
   * Jordi Pont-Tuset*, Pablo Arbelaez*, Jonathan T. Barron, Ferran Marques, Jitendra Malik, [Multiscale Combinatorial Grouping for Image Segmentation and Object Proposal Generation](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/resources/MCG_arxiv2015_v3.pdf), TPAMI, 2017.
 
 #### Supervised Learning
+* SRRPN [[Project]](#)
+  * Meng-Ru Hsieh, Yen-Liang Lin, Winston H. Hsu, [Drone-Based Object Counting by Spatially Regularized Regional Proposal Network](http://openaccess.thecvf.com/content_ICCV_2017/papers/Hsieh_Drone-Based_Object_Counting_ICCV_2017_paper.pdf), ICCV, 2017.
+* SPN [[Project]](https://github.com/ZhouYanzhao/SPN/)
+  * Yi Zhu, Yanzhao Zhou, Qixiang Ye, Qiang Qiu, Jianbin Jiao, [Soft Proposal Networks for Weakly Supervised Object Localization](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Soft_Proposal_Networks_ICCV_2017_paper.pdf), ICCV, 2017.
+* ScaleNet [[Project]](#)
+  * Siyuan Qiao, Wei Shen, Weichao Qiu, Chenxi Liu, Alan Yuille, [ScaleNet: Guiding Object Proposal Generation in Supermarkets and Beyond](http://openaccess.thecvf.com/content_ICCV_2017/papers/Qiao_ScaleNet_Guiding_Object_ICCV_2017_paper.pdf), ICCV, 2017.
 ![RPN](https://c2.staticflickr.com/4/3821/33118567676_fecd47a78c_b.jpg)
 * MultiBox [[Project]](https://github.com/google/multibox)
   * Dumitru Erhan, Christian Szegedy, Alexander Toshev, and Dragomir Anguelov, [Scalable Object Detection using Deep Neural Networks](https://arxiv.org/pdf/1312.2249.pdf), CVPR, 2014.
